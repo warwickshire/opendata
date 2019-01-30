@@ -1,0 +1,334 @@
+SOA,SOA Name,Ward Name,Locality,District/Borough,Business Growth (2003-2007),Employment Growth (2003-2007)
+E01031005,"New Arley East, Hill Top and Ansley",Arley and Whitacre,North Warwickshire - South ,North Warwickshire,13,95
+E01031006,New Arley West and Old Arley,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,2,26
+E01031007,New Arley South and Over Whitacre,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,2,159
+E01031008,Ansley Common and Birchley Heath,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,-1,55
+E01031009,Atherstone Central - Canal and Outwoods,Atherstone Central,North Warwickshire - East ,North Warwickshire,8,5
+E01031010,Atherstone Central - Centre,Atherstone Central,North Warwickshire - East ,North Warwickshire,12,466
+E01031011,Atherstone North - Town Centre North & Alder Mill,Atherstone North,North Warwickshire - East ,North Warwickshire,2,1290
+E01031012,Atherstone North - St Georges and Carlyon,Atherstone North,North Warwickshire - East ,North Warwickshire,0,-372
+E01031013,Atherstone South,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,2,-122
+E01031014,Mancetter North,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,8,103
+E01031015,Mancetter South and Ridge Lane,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,3,-12
+E01031016,Baddesley Ensor West,Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,-2,-24
+E01031017,"Grendon, Bradley Green and Whittington",Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,12,88
+E01031018,"Baddesley Common, Baxterley and Merevale",Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,-3,-60
+E01031019,Coleshill North - Grimstock Hill,Coleshill North,North Warwickshire - South ,North Warwickshire,29,506
+E01031020,Coleshill North - Cole End,Coleshill North,North Warwickshire - South ,North Warwickshire,53,1093
+E01031021,Coleshill South - Centre,Coleshill South,North Warwickshire - South ,North Warwickshire,-17,92
+E01031022,Coleshill South - Hospital & Southfields,Coleshill South,North Warwickshire - South ,North Warwickshire,-14,-74
+E01031023,Curdworth and Wishaw,Curdworth,North Warwickshire - West ,North Warwickshire,-2,-697
+E01031024,Marston and Water Park,Curdworth,North Warwickshire - West ,North Warwickshire,36,2534
+E01031025,Dordon Rural,Dordon,North Warwickshire - North ,North Warwickshire,11,483
+E01031026,Dordon Village,Dordon,North Warwickshire - North ,North Warwickshire,3,22
+E01031027,Corley,Fillongley,North Warwickshire - South ,North Warwickshire,7,114
+E01031028,Fillongley and The Packingtons,Fillongley,North Warwickshire - South ,North Warwickshire,10,464
+E01031029,Hartshill South,Hartshill,North Warwickshire - East ,North Warwickshire,-7,-72
+E01031030,Hartshill North and Caldecote,Hartshill,North Warwickshire - East ,North Warwickshire,7,161
+E01031031,Piccadilly and Wood End,Hurley and Wood End,North Warwickshire - West ,North Warwickshire,17,210
+E01031032,Hurley,Hurley and Wood End,North Warwickshire - West ,North Warwickshire,5,27
+E01031033,Kingsbury South,Kingsbury,North Warwickshire - West ,North Warwickshire,10,160
+E01031034,Kingsbury North,Kingsbury,North Warwickshire - West ,North Warwickshire,9,53
+E01031035,Warton and Shuttington,Newton Regis and Warton,North Warwickshire - North ,North Warwickshire,17,143
+E01031036,"Newton Regis, Austrey and Seckington",Newton Regis and Warton,North Warwickshire - North ,North Warwickshire,4,299
+E01031037,Polesworth East - St Helena,Polesworth East,North Warwickshire - North ,North Warwickshire,-3,-12
+E01031038,Polesworth East - Station,Polesworth East,North Warwickshire - North ,North Warwickshire,-4,-61
+E01031039,Polesworth West - School,Polesworth West,North Warwickshire - North ,North Warwickshire,2,2
+E01031040,Polesworth West - Birchmoor & Pooley Fields,Polesworth West,North Warwickshire - North ,North Warwickshire,5,76
+E01031041,Water Orton West,Water Orton,North Warwickshire - West ,North Warwickshire,10,419
+E01031042,Water Orton East,Water Orton,North Warwickshire - West ,North Warwickshire,5,-21
+E01031043,Abbey Town Centre,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,-19,-826
+E01031044,Abbey North,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,1,163
+E01031045,Abbey West,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,-4,-406
+E01031046,Abbey Priory,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,-3,173
+E01031047,Abbey South,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,3,27
+E01031048,Arbury Heath End,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,1,-19
+E01031049,Arbury George Elliott,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,38,456
+E01031050,Arbury Rural,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,18,543
+E01031051,Arbury North,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,7,36
+E01031052,Attleborough North East,Attleborough,Abbey & Wem Brook ,Nuneaton & Bedworth,-2,48
+E01031053,Attleborough North West,Attleborough,Whitestone & Bulkington/Abbey & Wem Brook,Nuneaton & Bedworth,-6,-50
+E01031054,Attleborough Central,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,8,49
+E01031055,Attleborough South West,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,16,81
+E01031056,Attleborough South East,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,3,-48
+E01031057,Bar Pool North & Crescents,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,-2,-54
+E01031058,Bar Pool West & Recreation Ground,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,0,-2
+E01031059,Bar Pool East & Greenmoor,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,3,31
+E01031060,Bar Pool Central,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,2,13
+E01031061,Bar Pool South,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,4,13
+E01031062,Bede South West,Bede,Bedworth South ,Nuneaton & Bedworth,4,12
+E01031063,Bede Cannons,Bede,Bedworth South ,Nuneaton & Bedworth,-3,17
+E01031064,Bede Bedworth Town Centre,Bede,Bedworth South ,Nuneaton & Bedworth,2,-187
+E01031065,Bede North,Bede,Bedworth South ,Nuneaton & Bedworth,3,2
+E01031066,Bede East,Bede,Bedworth South ,Nuneaton & Bedworth,4,-4
+E01031067,Bulkington Village,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,6,-34
+E01031068,Bulkington South East,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,2,-148
+E01031069,Bulkington North,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,0,52
+E01031070,Bulkington Arden,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,9,30
+E01031071,Camp Hill Village Centre,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,1,1
+E01031072,Camp Hill South West & Brook,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,0,-14
+E01031073,Camp Hill North & Pools,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,2,19
+E01031074,Camp Hill North West & Allotments,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,3,7
+E01031075,Camp Hill West & Quarry,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,-4,-6
+E01031076,Exhall Grange,Exhall,Bedworth North ,Nuneaton & Bedworth,10,916
+E01031077,Keresley North and Newlands,Exhall,Bedworth North ,Nuneaton & Bedworth,0,-20
+E01031078,Keresley South and Ash Green,Exhall,Bedworth North ,Nuneaton & Bedworth,17,229
+E01031079,Exhall West,Exhall,Bedworth South ,Nuneaton & Bedworth,2,11
+E01031080,Exhall East,Exhall,Bedworth South ,Nuneaton & Bedworth,16,32
+E01031081,Galley Common South East,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,3,-27
+E01031082,Galley Common South,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,14,23
+E01031083,Galley Common West & Rural,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,12,234
+E01031084,Chapel End,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,11,16
+E01031085,Galley Common East,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,10,3
+E01031086,Goodyers End,Heath,Bedworth North ,Nuneaton & Bedworth,1,82
+E01031087,Heath Sports,Heath,Bedworth North ,Nuneaton & Bedworth,14,5
+E01031088,Market End and Newdigate,Heath,Bedworth North ,Nuneaton & Bedworth,14,75
+E01031089,Little Heath,Heath,Bedworth North ,Nuneaton & Bedworth,-8,-29
+E01031090,Kingswood Grove Farm & Rural,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,2,0
+E01031091,Kingswood St Pauls,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,3,30
+E01031092,Kingswood Stockingford Schools,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,1,41
+E01031093,Kingswood Hills,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,1,4
+E01031094,Kingswood North East,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,7,20
+E01031095,Poplar Nicholas Chamberlain,Poplar,Bedworth South ,Nuneaton & Bedworth,-1,29
+E01031096,Poplar North West,Poplar,Bedworth South ,Nuneaton & Bedworth,8,-9
+E01031097,Poplar Coalpit Field,Poplar,Bedworth South ,Nuneaton & Bedworth,8,-84
+E01031098,Poplar Bayton Road,Poplar,Bedworth South ,Nuneaton & Bedworth,26,-102
+E01031099,Poplar South,Poplar,Bedworth South ,Nuneaton & Bedworth,-5,137
+E01031100,St Nicholas Horeston Grange West,St. Nicholas,Weddington & St. Nicolas ,Nuneaton & Bedworth,40,422
+E01031101,St Nicholas Horeston Grange East,St. Nicholas,Weddington & St. Nicolas ,Nuneaton & Bedworth,7,43
+E01031102,St Nicholas South West,St. Nicholas,Weddington & St. Nicolas ,Nuneaton & Bedworth,-15,-54
+E01031103,St Nicholas East & The Long Shoot,St. Nicholas,Weddington & St. Nicolas ,Nuneaton & Bedworth,4,25
+E01031104,St. Nicholas North & College,St. Nicholas,Weddington & St. Nicolas,Nuneaton & Bedworth,2,99
+E01031105,Slough Mt Pleasant,Slough,Bedworth North ,Nuneaton & Bedworth,6,-173
+E01031106,Slough South & Heath,Slough,Bedworth North ,Nuneaton & Bedworth,-9,-117
+E01031107,Slough Collycroft North,Slough,Bedworth North ,Nuneaton & Bedworth,2,-6
+E01031108,Slough West and Rural,Slough,Bedworth North ,Nuneaton & Bedworth,7,-4
+E01031109,Slough Collycroft South,Slough,Bedworth North ,Nuneaton & Bedworth,2,-18
+E01031110,Weddington St Nicholas West,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,6,54
+E01031111,Weddington St Nicholas East,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,14,37
+E01031112,Weddington South & Schools,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,12,83
+E01031113,Weddington North,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,-2,-28
+E01031114,Wedding South West & River,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,6,-26
+E01031115,Wem Brook Bridges,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,-1,-70
+E01031116,Middlemarch & Swimming Pool,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,10,450
+E01031117,Wem Brook East,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,4,33
+E01031118,Hill Top,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,-1,-34
+E01031119,Riversley,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,0,-908
+E01031120,Whitestone North West & Attleborough Fields,Whitestone,Weddington & St. Nicolas/Whitestone & Bulkington,Nuneaton & Bedworth,7,165
+E01031121,Whitestone North,Whitestone,Weddington & St. Nicolas/Whitestone & Bulkington,Nuneaton & Bedworth,6,56
+E01031122,Whitestone South,Whitestone,Whitestone & Bulkington/Weddington & St. Nicolas,Nuneaton & Bedworth,4,17
+E01031123,Whitestone East & Rural,Whitestone,Whitestone & Bulkington ,Nuneaton & Bedworth,10,-94
+E01031124,Whitestone South,Whitestone,Whitestone & Bulkington ,Nuneaton & Bedworth,-1,-26
+E01031125,Admirals North,Admirals,Rugby Town West ,Rugby,6,-7
+E01031126,Cawston,Admirals,Rugby Town West ,Rugby,52,138
+E01031127,Admirals East,Admirals,Rugby Town West ,Rugby,7,-27
+E01031128,"Easenhall, Newton & Biggin and Harborough Magna",Avon and Swift,Rugby Rural ,Rugby,77,1068
+E01031129,Clifton Upon Dunsmore,Avon and Swift,Rugby Rural ,Rugby,7,71
+E01031130,Benn Station,Benn,Rugby Town North ,Rugby,-2,-278
+E01031131,Benn West,Benn,Rugby Town North ,Rugby,3,30
+E01031132,Benn South,Benn,Rugby Town North ,Rugby,-4,225
+E01031133,Whinfield Park,Benn,Rugby Town North ,Rugby,-2,-27
+E01031134,Bilton East,Bilton,Rugby Town West ,Rugby,23,28
+E01031135,Bilton South Cock Robin,Bilton,Rugby Town West ,Rugby,3,-64
+E01031136,Bilton North West,Bilton,Rugby Town West ,Rugby,4,-40
+E01031137,Brownsover North Lake District,Brownsover North,Rugby Town North ,Rugby,17,163
+E01031138,Brownsover North - East,Brownsover North,Rugby Town North ,Rugby,-1,-2
+E01031139,Brownsover North Campion,Brownsover North,Rugby Town North ,Rugby,10,32
+E01031140,Brownsover South Lake District South,Brownsover South,Rugby Town North ,Rugby,-2,-2
+E01031141,Brownsover South Junction One,Brownsover South,Rugby Town North ,Rugby,19,181
+E01031142,Brownsover South Lake District North,Brownsover South,Rugby Town North ,Rugby,-15,-87
+E01031143,Caldecott South and Rural,Caldecott,Rugby Town West ,Rugby,17,-30
+E01031144,Caldecott North East,Caldecott,Rugby Town West ,Rugby,-27,266
+E01031145,Caldecott North West,Caldecott,Rugby Town West ,Rugby,-13,-155
+E01031146,Caldecott Rokeby,Caldecott,Rugby Town West ,Rugby,8,-9
+E01031147,Thurlaston,Dunchurch and Knightlow,Rugby Rural ,Rugby,10,216
+E01031148,Dunchurch,Dunchurch and Knightlow,Rugby Rural ,Rugby,4,139
+E01031149,"Princethorpe, Marton, Frankton, Bourton & Draycote",Dunchurch and Knightlow,Rugby Rural ,Rugby,23,91
+E01031150,Stretton on Dunsmore,Dunchurch and Knightlow,Rugby Rural ,Rugby,18,73
+E01031151,Binley Woods North,Earl Craven and Wolston,Rugby Rural ,Rugby,12,69
+E01031152,Binley Woods South,Earl Craven and Wolston,Rugby Rural ,Rugby,0,15
+E01031153,Wolston South,Earl Craven and Wolston,Rugby Rural ,Rugby,1,13
+E01031154,Brandon and Wolston North,Earl Craven and Wolston,Rugby Rural ,Rugby,2,221
+E01031155,Eastlands South,Eastlands,Rugby Town East ,Rugby,10,9
+E01031156,Eastlands South West,Eastlands,Rugby Town East ,Rugby,10,6
+E01031157,Eastlands North,Eastlands,Rugby Town East ,Rugby,27,220
+E01031158,Eastlands Abbots,Eastlands,Rugby Town East ,Rugby,9,48
+E01031159,Fosse West,Fosse,Rugby Rural ,Rugby,-3,-303
+E01031160,Fosse East,Fosse,Rugby Rural ,Rugby,11,-211
+E01031161,Hillmorton North and Locks,Hillmorton,Rugby Town East ,Rugby,2,15
+E01031162,Hillmorton East and Wharf,Hillmorton,Rugby Town East ,Rugby,4,-32
+E01031163,Hillmorton West,Hillmorton,Rugby Town East ,Rugby,7,3
+E01031164,Long Lawford South,Lawford and King's Newnham,Rugby Rural ,Rugby,-4,-90
+E01031165,"Church Lawford, Kings Newnham & Long Lawford North",Lawford and King's Newnham,Rugby Rural ,Rugby,12,79
+E01031166,Leam Valley,Leam Valley,Rugby Rural ,Rugby,30,70
+E01031167,New Bilton South East,New Bilton,Rugby Town West ,Rugby,-5,-18
+E01031168,New Bilton West & Somers Rd,New Bilton,Rugby Town West ,Rugby,26,419
+E01031169,New Bilton North,New Bilton,Rugby Town West ,Rugby,1,-33
+E01031170,New Bilton East,New Bilton,Rugby Town West ,Rugby,3,107
+E01031171,Newbold Riverside,Newbold,Rugby Town North ,Rugby,17,352
+E01031172,Newbold on Avon,Newbold,Rugby Town North ,Rugby,-2,-30
+E01031173,Town Centre,Newbold,Rugby Town North ,Rugby,45,4
+E01031174,Cattlemarket,Newbold,Rugby Town North ,Rugby,-4,35
+E01031175,Overslade South East,Overslade,Rugby Town West,Rugby,-7,1
+E01031176,Overslade North,Overslade,Rugby Town West ,Rugby,0,44
+E01031177,Overslade North West,Overslade,Rugby Town West ,Rugby,-3,-5
+E01031178,Overslade West,Overslade,Rugby Town West ,Rugby,11,85
+E01031179,Paddox South,Paddox,Rugby Town East ,Rugby,6,14
+E01031180,Paddox North,Paddox,Rugby Town East ,Rugby,17,25
+E01031181,Ryton on Dunsmore,Ryton on Dunsmore,Rugby Rural ,Rugby,18,-3160
+E01031182,Wolvey,Wolvey,Rugby Rural ,Rugby,15,292
+E01031183,"Alcester South, Arrow & Weethley",Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,2,300
+E01031184,"Abbey, Grammar & Kings Coughton",Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,67,245
+E01031185,Alcester North & Conway,Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,20,-65
+E01031186,Alcester East & Island,Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,1,140
+E01031187,Aston Cantlow,Aston Cantlow,"Alcester, Studley & Henley ",Stratford-on-Avon,13,101
+E01031188,Bardon,Bardon,"Alcester, Studley & Henley ",Stratford-on-Avon,14,-189
+E01031189,Dunnington and Salford Priors,Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,8,140
+E01031190,"Bidford East, Waterloo & Broom",Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,1,-158
+E01031191,Bidford West and Wixford,Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,13,103
+E01031192,"Bidford South, Marlcliff and Barton",Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,9,-3
+E01031193,Brailes,Brailes,Stratford-on-Avon & Shipston ,Stratford-on-Avon,15,44
+E01031194,Burton Dassett,Burton Dassett,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,29,694
+E01031195,Claverdon,Claverdon,"Alcester, Studley & Henley ",Stratford-on-Avon,20,-11
+E01031196,Ettington,Ettington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,16,44
+E01031197,Ladbroke & Priors,Fenny Compton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,28,94
+E01031198,"Fenny Compton, Farnborough & Avon Dassett",Fenny Compton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,15,-47
+E01031199,"Deppers Bridge, Chester & Kings",Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,9,68
+E01031200,Bishops Itchington,Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,6,24
+E01031201,Harbury,Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,-8,2
+E01031202,Henley West,Henley,"Alcester, Studley & Henley ",Stratford-on-Avon,37,211
+E01031203,Henley East and Beaudesert,Henley,"Alcester, Studley & Henley ",Stratford-on-Avon,13,105
+E01031204,Wootton Wawen,Henley,"Alcester, Studley & Henley",Stratford-on-Avon,15,224
+E01031205,"Kineton, Chadshunt & Compton Verney",Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,27,209
+E01031206,"Kineton Castle, Lt Kineton & Combrook",Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,13,31
+E01031207,Lighthorne & Lighthorne Heath,Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,8,2256
+E01031208,Kinwarton,Kinwarton,"Alcester, Studley & Henley ",Stratford-on-Avon,-7,147
+E01031209,Long Compton,Long Compton,Stratford-on-Avon & Shipston ,Stratford-on-Avon,14,101
+E01031210,Long Itchington West & Ufton,Long itchington,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,22,17
+E01031211,Long Itchington East,Long itchington,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,4,47
+E01031212,Quinton,Quinton,Stratford-on-Avon & Shipston ,Stratford-on-Avon,8,40
+E01031213,Sambourne,Sambourne,"Alcester, Studley & Henley ",Stratford-on-Avon,26,123
+E01031214,Shipston South & Furze Hill,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,5,-103
+E01031215,Shipston North,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,28,123
+E01031216,Shipston West and Town Centre,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,11,33
+E01031217,Snitterfield & Wolverton,Snitterfield,"Alcester, Studley & Henley ",Stratford-on-Avon,8,36
+E01031218,Hampton Lucy & Fulbrook,Snitterfield,"Southam, Wellesbourne & Kineton/Alcester, Studley & Henley",Stratford-on-Avon,16,279
+E01031219,Southam East,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,16,28
+E01031220,Southam North,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,4,75
+E01031221,Southam West,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,-3,-1
+E01031222,Southam South & Town Centre,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,15,160
+E01031223,Stockton,Stockton and Napton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,14,46
+E01031224,Napton on the Hill,Stockton and Napton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,29,122
+E01031225,Bridgetown,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,17,50
+E01031226,Stratford South East & Alveston Hill,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,43,509
+E01031227,Tiddington & Alveston,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,5,-398
+E01031228,Clopton & Welcombe Hills,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,-2,44
+E01031229,Town Centre North,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,-20,-243
+E01031230,The Avenue,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,11,290
+E01031231,Maybird,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,11,-192
+E01031232,Shottery South & Racecourse,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,33,399
+E01031233,Shottery North & Racecourse,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,3,70
+E01031234,Old Town & Town Centre South,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,34,25
+E01031235,Old Town,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,-5,25
+E01031236,Bishopton,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,30,123
+E01031237,Stratford Mount Pleasant West,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,7,100
+E01031238,Stratford Mount Pleasant East,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,10,596
+E01031239,Studley East & Priory,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,-5,81
+E01031240,Studley North,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,-3,-14
+E01031241,Studley West & Common,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,-1,53
+E01031242,Studley South,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,5,-14
+E01031243,Earlswood,Tanworth,"Alcester, Studley & Henley ",Stratford-on-Avon,12,36
+E01031244,Tanworth,Tanworth,"Alcester, Studley & Henley ",Stratford-on-Avon,-4,124
+E01031245,Tredington & Blackwell,Tredington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,6,59
+E01031246,"Newbold-on-Stour, Ilmington East & Whitchurch",Tredington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,1,5
+E01031247,Vale of the Red Horse,Vale of the Red Horse,Stratford-on-Avon & Shipston ,Stratford-on-Avon,14,108
+E01031248,Welford,Welford,"Alcester, Studley & Henley ",Stratford-on-Avon,10,75
+E01031249,Wellesbourne West,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,2,-91
+E01031250,"Wellesbourne East, Walton & Airfield",Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,0,284
+E01031251,Wellesbourne South,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,-5,96
+E01031252,"Moreton Morrell, Ashorne & Newbold Pacey",Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,18,112
+E01031253,Wellesbourne North,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,0,33
+E01031254,Castle & Burton Green,Abbey,Kenilworth ,Warwick,2,71
+E01031255,Castle Green & Malthouse,Abbey,Kenilworth ,Warwick,1,24
+E01031256,Abbey Fields,Abbey,Kenilworth ,Warwick,11,-143
+E01031257,Abbey East,Abbey,Kenilworth ,Warwick,18,103
+E01031258,Town Centre North,Abbey,Kenilworth ,Warwick,-36,-445
+E01031259,Bishops Tachbrook North & Warwick Gates,Bishops Tachbrook,Warwick Rural ,Warwick,14,18
+E01031260,Bishops Tachbrook South,Bishops Tachbrook,Warwick Rural ,Warwick,1,90
+E01031261,Brunswick South West & kingsway,Brunswick,South Leamington & Whitnash ,Warwick,9,-423
+E01031262,Brunswick South & Cemetary,Brunswick,South Leamington & Whitnash ,Warwick,70,420
+E01031263,Brunswick North East,Brunswick,South Leamington & Whitnash ,Warwick,5,-6
+E01031264,Brunswick South East,Brunswick,South Leamington & Whitnash ,Warwick,1,-2
+E01031265,Brunswick North West & Foundry,Brunswick,South Leamington & Whitnash ,Warwick,-8,-351
+E01031266,Old Town West & Railway Bridge,Brunswick,South Leamington & Whitnash ,Warwick,18,84
+E01031267,Hampton-on-the-Hill,Budbrooke,Warwick Rural ,Warwick,7,-3
+E01031268,Hatton & Hampton Magna,Budbrooke,Warwick Rural ,Warwick,18,261
+E01031269,"Sherbourne, Barford & Wasperton",Budbrooke,Warwick Rural ,Warwick,18,-40
+E01031270,Town Centre,Clarendon,North Leamington ,Warwick,87,-950
+E01031271,Campion Hills & Newbold Comyn,Clarendon,North Leamington ,Warwick,21,-405
+E01031272,Clarendon North,Clarendon,North Leamington ,Warwick,10,46
+E01031273,Lillington East,Crown,North Leamington ,Warwick,-1,-4
+E01031274,Lillington West,Crown,North Leamington ,Warwick,-4,-48
+E01031275,Crown North East,Crown,North Leamington ,Warwick,0,7
+E01031276,Lillington South,Crown,North Leamington ,Warwick,-3,11
+E01031277,Cubbington West & New Cubbington,Cubbington,Warwick Rural ,Warwick,13,103
+E01031278,"New Cubbington, Blackdown & Old Milverton",Cubbington,Warwick Rural ,Warwick,8,1115
+E01031279,Cubbington East,Cubbington,Warwick Rural ,Warwick,5,39
+E01031280,"Bubbenhall, Wappenbury, Weston & Eathorpe",Cubbington,Warwick Rural ,Warwick,6,6
+E01031281,"Lapworth North, Baddesley Clinton & High Cross",Lapworth,Warwick Rural ,Warwick,23,-36
+E01031282,"Lapworth South, Bushwood, Lowsonford & Rowington",Lapworth,Warwick Rural ,Warwick,0,-149
+E01031283,"Wroxhall, Hasely & Honiley",Leek Wootton,Warwick Rural ,Warwick,27,360
+E01031284,"Leek Wootton, Guys Cliffe & Beausale",Leek Wootton,Warwick Rural ,Warwick,12,-414
+E01031285,Manor South West,Manor,North Leamington ,Warwick,3,-6
+E01031286,Manor South & Round Oaks,Manor,North Leamington ,Warwick,-1,48
+E01031287,Manor North,Manor,North Leamington ,Warwick,9,13
+E01031288,Manor West,Manor,North Leamington ,Warwick,-2,12
+E01031289,Manor East,Manor,North Leamington ,Warwick,0,-12
+E01031290,Milverton Cliffe,Milverton,North Leamington ,Warwick,12,-7
+E01031291,Milverton South East,Milverton,North Leamington ,Warwick,22,83
+E01031292,Milverton West,Milverton,North Leamington ,Warwick,6,29
+E01031293,Milverton South West,Milverton,North Leamington ,Warwick,9,-353
+E01031294,Milverton East,Milverton,North Leamington ,Warwick,-1,-4
+E01031295,Milverton North,Milverton,North Leamington ,Warwick,7,44
+E01031296,Knowle Hill & Glasshouse,Park Hill,Kenilworth ,Warwick,2,20
+E01031297,Ladyes Hills & Mill End West,Park Hill,Kenilworth ,Warwick,7,72
+E01031298,Whitemoor,Park Hill,Kenilworth ,Warwick,8,141
+E01031299,Glass House & Windy Arbour,Park Hill,Kenilworth ,Warwick,9,23
+E01031300,Mill End East & Crackley,Park Hill,Kenilworth ,Warwick,21,10
+E01031301,Offchurch & Hunningham,Radford Semele,Warwick Rural ,Warwick,33,-945
+E01031302,Radford Semele,Radford Semele,Warwick Rural ,Warwick,-2,57
+E01031303,Town Centre South,St John's,Kenilworth ,Warwick,-1,-46
+E01031304,Borrowell,St John's,Kenilworth ,Warwick,5,2
+E01031305,Thickthorn & Castle End,St John's,Kenilworth ,Warwick,24,62
+E01031306,St John's Playing Fields,St John's,Kenilworth ,Warwick,13,101
+E01031307,Castle End & Windy Arbour,St John's,Kenilworth ,Warwick,8,78
+E01031308,Stoneleigh,Stoneleigh,Warwick Rural/Kenilworth,Warwick,34,3042
+E01031309,Emscote,Warwick North,Warwick ,Warwick,3,14
+E01031310,Woodloes South East & Spinney Hill South,Warwick North,Warwick ,Warwick,-6,-48
+E01031311,Emscote & Spinney Hill North East,Warwick North,Warwick ,Warwick,7,32
+E01031312,Wedgnock & Woodloes West,Warwick North,Warwick ,Warwick,42,197
+E01031313,Woodloes North,Warwick North,Warwick ,Warwick,10,25
+E01031314,Woodloes East,Warwick North,Warwick ,Warwick,4,87
+E01031315,"Warwick Gates North, Tachbrook Park & Myton South",Warwick South,Warwick ,Warwick,103,3642
+E01031316,"St Nicholas Park, Myton & Emscote South",Warwick South,Warwick ,Warwick,-4,-413
+E01031317,"Bridge End, Castle & Stratford Rd East",Warwick South,Warwick ,Warwick,-4,-20
+E01031318,Warwick Gates,Warwick South,Warwick ,Warwick,73,115
+E01031319,Emscote Lawns,Warwick South,Warwick ,Warwick,12,-366
+E01031320,The Moorings and Myton North,Warwick South,Warwick ,Warwick,-1,248
+E01031321,Packmores West & The Cape,Warwick West,Warwick ,Warwick,13,148
+E01031322,The Cape & Wedgnock,Warwick West,Warwick ,Warwick,9,362
+E01031323,"Priory Park, Packmores & Hospital",Warwick West,Warwick ,Warwick,28,1317
+E01031324,Town Centre & Racecourse,Warwick West,Warwick ,Warwick,1,-1135
+E01031325,Warwick West East,Warwick West,Warwick ,Warwick,12,25
+E01031326,Kings Meadow & Longbridge,Warwick West,Warwick ,Warwick,36,122
+E01031327,Whitnash North,Whitnash,South Leamington & Whitnash ,Warwick,-1,38
+E01031328,Whitnash East & Millponds,Whitnash,South Leamington & Whitnash ,Warwick,8,62
+E01031329,Whitnash West,Whitnash,South Leamington & Whitnash ,Warwick,16,-186
+E01031330,Whitnash St Margarets,Whitnash,South Leamington & Whitnash ,Warwick,1,12
+E01031331,Whitnash South,Whitnash,South Leamington & Whitnash ,Warwick,24,50
+E01031332,Sydenham West,Willes,South Leamington & Whitnash ,Warwick,2,-232
+E01031333,Sydenham North,Willes,South Leamington & Whitnash ,Warwick,6,22
+E01031334,Sydenham South & East,Willes,South Leamington & Whitnash ,Warwick,8,-70
+E01031335,Old Town North,Willes,South Leamington & Whitnash ,Warwick,-5,-277
+E01031336,Old Town North West,Willes,South Leamington & Whitnash ,Warwick,-5,505
+E01031337,Old Town East & Sydenham Ind. Est.,Willes,South Leamington & Whitnash ,Warwick,6,459

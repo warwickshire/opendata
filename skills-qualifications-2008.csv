@@ -1,0 +1,334 @@
+SOA Code,SOA Name,Ward Name,Locality,District/Borough,16-74 Year Olds with No Qualifications,16-74 Year Olds with NVQ Qualification Level 2 or Higher,16-74 Year Olds with NVQ Qualification Level 4 or Higher,Working Age Population (16-74 Year Olds),% of Total Population with NVQ Level 4 or Higher,% of Total Population with No Qualifications
+E01031005,"New Arley East, Hill Top and Ansley",Arley and Whitacre,North Warwickshire - South ,North Warwickshire,429,317,95,"1,006",9.4%,42.6%
+E01031006,New Arley West and Old Arley,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,416,400,151,"1,084",13.9%,38.4%
+E01031007,New Arley South and Over Whitacre,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,256,434,200,898,22.3%,28.5%
+E01031008,Ansley Common and Birchley Heath,Arley and Whitacre,North Warwickshire - South ,North Warwickshire,381,303,87,929,9.4%,41.0%
+E01031009,Atherstone Central - Canal and Outwoods,Atherstone Central,North Warwickshire - East ,North Warwickshire,619,455,146,"1,470",9.9%,42.1%
+E01031010,Atherstone Central - Centre,Atherstone Central,North Warwickshire - East ,North Warwickshire,467,280,80,"1,036",7.7%,45.1%
+E01031011,Atherstone North - Town Centre North & Alder Mill,Atherstone North,North Warwickshire - East ,North Warwickshire,398,689,276,"1,507",18.3%,26.4%
+E01031012,Atherstone North - St Georges and Carlyon,Atherstone North,North Warwickshire - East ,North Warwickshire,635,242,62,"1,129",5.5%,56.2%
+E01031013,Atherstone South,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,269,327,107,789,13.6%,34.1%
+E01031014,Mancetter North,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,310,388,146,919,15.9%,33.7%
+E01031015,Mancetter South and Ridge Lane,Atherstone South and Mancetter,North Warwickshire - East ,North Warwickshire,486,249,69,944,7.3%,51.5%
+E01031016,Baddesley Ensor West,Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,434,297,85,999,8.5%,43.4%
+E01031017,"Grendon, Bradley Green and Whittington",Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,317,414,172,986,17.4%,32.2%
+E01031018,"Baddesley Common, Baxterley and Merevale",Baddesley and Grendon,North Warwickshire - North ,North Warwickshire,302,344,126,886,14.2%,34.1%
+E01031019,Coleshill North - Grimstock Hill,Coleshill North,North Warwickshire - South ,North Warwickshire,327,481,164,"1,189",13.8%,27.5%
+E01031020,Coleshill North - Cole End,Coleshill North,North Warwickshire - South ,North Warwickshire,326,520,188,"1,192",15.8%,27.3%
+E01031021,Coleshill South - Centre,Coleshill South,North Warwickshire - South ,North Warwickshire,376,474,180,"1,186",15.2%,31.7%
+E01031022,Coleshill South - Hospital & Southfields,Coleshill South,North Warwickshire - South ,North Warwickshire,356,540,212,"1,226",17.3%,29.0%
+E01031023,Curdworth and Wishaw,Curdworth,North Warwickshire - West ,North Warwickshire,363,607,237,"1,267",18.7%,28.7%
+E01031024,Marston and Water Park,Curdworth,North Warwickshire - West ,North Warwickshire,357,600,250,"1,296",19.3%,27.5%
+E01031025,Dordon Rural,Dordon,North Warwickshire - North ,North Warwickshire,461,406,126,"1,160",10.9%,39.7%
+E01031026,Dordon Village,Dordon,North Warwickshire - North ,North Warwickshire,530,323,70,"1,171",6.0%,45.3%
+E01031027,Corley,Fillongley,North Warwickshire - South ,North Warwickshire,325,528,229,"1,147",20.0%,28.3%
+E01031028,Fillongley and The Packingtons,Fillongley,North Warwickshire - South ,North Warwickshire,389,644,303,"1,378",22.0%,28.2%
+E01031029,Hartshill South,Hartshill,North Warwickshire - East ,North Warwickshire,321,431,156,"1,031",15.1%,31.1%
+E01031030,Hartshill North and Caldecote,Hartshill,North Warwickshire - East ,North Warwickshire,582,610,200,"1,661",12.0%,35.0%
+E01031031,Piccadilly and Wood End,Hurley and Wood End,North Warwickshire - West ,North Warwickshire,613,575,172,"1,588",10.8%,38.6%
+E01031032,Hurley,Hurley and Wood End,North Warwickshire - West ,North Warwickshire,455,333,124,"1,050",11.8%,43.3%
+E01031033,Kingsbury South,Kingsbury,North Warwickshire - West ,North Warwickshire,504,494,146,"1,375",10.6%,36.7%
+E01031034,Kingsbury North,Kingsbury,North Warwickshire - West ,North Warwickshire,364,647,204,"1,485",13.7%,24.5%
+E01031035,Warton and Shuttington,Newton Regis and Warton,North Warwickshire - North ,North Warwickshire,447,577,215,"1,430",15.0%,31.3%
+E01031036,"Newton Regis, Austrey and Seckington",Newton Regis and Warton,North Warwickshire - North ,North Warwickshire,287,659,334,"1,187",28.1%,24.2%
+E01031037,Polesworth East - St Helena,Polesworth East,North Warwickshire - North ,North Warwickshire,480,348,103,"1,127",9.1%,42.6%
+E01031038,Polesworth East - Station,Polesworth East,North Warwickshire - North ,North Warwickshire,501,563,180,"1,466",12.3%,34.2%
+E01031039,Polesworth West - School,Polesworth West,North Warwickshire - North ,North Warwickshire,447,519,179,"1,360",13.2%,32.9%
+E01031040,Polesworth West - Birchmoor & Pooley Fields,Polesworth West,North Warwickshire - North ,North Warwickshire,357,626,229,"1,355",16.9%,26.3%
+E01031041,Water Orton West,Water Orton,North Warwickshire - West ,North Warwickshire,288,578,211,"1,266",16.7%,22.7%
+E01031042,Water Orton East,Water Orton,North Warwickshire - West ,North Warwickshire,371,590,219,"1,301",16.8%,28.5%
+E01031043,Abbey Town Centre,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,434,268,87,932,9.3%,46.6%
+E01031044,Abbey North,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,437,295,64,"1,045",6.1%,41.8%
+E01031045,Abbey West,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,338,462,188,"1,051",17.9%,32.2%
+E01031046,Abbey Priory,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,431,394,118,"1,130",10.4%,38.1%
+E01031047,Abbey South,Abbey,Abbey & Wem Brook ,Nuneaton & Bedworth,378,412,138,"1,119",12.3%,33.8%
+E01031048,Arbury Heath End,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,338,326,83,"1,004",8.3%,33.7%
+E01031049,Arbury George Elliott,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,470,368,136,"1,160",11.7%,40.5%
+E01031050,Arbury Rural,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,279,270,67,782,8.6%,35.7%
+E01031051,Arbury North,Arbury,Arbury & Stockingford ,Nuneaton & Bedworth,372,430,111,"1,142",9.7%,32.6%
+E01031052,Attleborough North East,Attleborough,Abbey & Wem Brook ,Nuneaton & Bedworth,359,406,132,"1,052",12.5%,34.1%
+E01031053,Attleborough North West,Attleborough,Whitestone & Bulkington/Abbey & Wem Brook,Nuneaton & Bedworth,372,301,117,899,13.0%,41.4%
+E01031054,Attleborough Central,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,409,406,134,"1,131",11.8%,36.2%
+E01031055,Attleborough South West,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,184,702,298,"1,194",25.0%,15.4%
+E01031056,Attleborough South East,Attleborough,Whitestone & Bulkington ,Nuneaton & Bedworth,350,454,173,"1,092",15.8%,32.1%
+E01031057,Bar Pool North & Crescents,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,481,240,53,927,5.7%,51.9%
+E01031058,Bar Pool West & Recreation Ground,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,525,336,106,"1,158",9.2%,45.3%
+E01031059,Bar Pool East & Greenmoor,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,366,350,89,980,9.1%,37.3%
+E01031060,Bar Pool Central,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,447,374,85,"1,155",7.4%,38.7%
+E01031061,Bar Pool South,Bar Pool,Arbury & Stockingford ,Nuneaton & Bedworth,266,518,179,"1,133",15.8%,23.5%
+E01031062,Bede South West,Bede,Bedworth South ,Nuneaton & Bedworth,349,344,104,"1,020",10.2%,34.2%
+E01031063,Bede Cannons,Bede,Bedworth South ,Nuneaton & Bedworth,386,293,88,959,9.2%,40.3%
+E01031064,Bede Bedworth Town Centre,Bede,Bedworth South ,Nuneaton & Bedworth,375,228,81,806,10.0%,46.5%
+E01031065,Bede North,Bede,Bedworth South ,Nuneaton & Bedworth,494,296,58,"1,081",5.4%,45.7%
+E01031066,Bede East,Bede,Bedworth South ,Nuneaton & Bedworth,532,226,64,995,6.4%,53.5%
+E01031067,Bulkington Village,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,452,354,116,"1,149",10.1%,39.3%
+E01031068,Bulkington South East,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,487,452,208,"1,284",16.2%,37.9%
+E01031069,Bulkington North,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,426,422,192,"1,152",16.7%,37.0%
+E01031070,Bulkington Arden,Bulkington,Whitestone & Bulkington ,Nuneaton & Bedworth,391,449,185,"1,199",15.4%,32.6%
+E01031071,Camp Hill Village Centre,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,555,212,43,"1,013",4.2%,54.8%
+E01031072,Camp Hill South West & Brook,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,438,195,40,875,4.6%,50.1%
+E01031073,Camp Hill North & Pools,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,485,337,92,"1,102",8.3%,44.0%
+E01031074,Camp Hill North West & Allotments,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,421,284,68,971,7.0%,43.4%
+E01031075,Camp Hill West & Quarry,Camp Hill,Camp Hill & Galley Common ,Nuneaton & Bedworth,540,288,67,"1,125",6.0%,48.0%
+E01031076,Exhall Grange,Exhall,Bedworth North ,Nuneaton & Bedworth,314,371,140,"1,009",13.9%,31.1%
+E01031077,Keresley North and Newlands,Exhall,Bedworth North ,Nuneaton & Bedworth,365,326,90,"1,003",9.0%,36.4%
+E01031078,Keresley South and Ash Green,Exhall,Bedworth North ,Nuneaton & Bedworth,416,336,109,"1,096",9.9%,38.0%
+E01031079,Exhall West,Exhall,Bedworth South ,Nuneaton & Bedworth,466,352,78,"1,129",6.9%,41.3%
+E01031080,Exhall East,Exhall,Bedworth South ,Nuneaton & Bedworth,432,378,99,"1,123",8.8%,38.5%
+E01031081,Galley Common South East,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,376,476,163,"1,175",13.9%,32.0%
+E01031082,Galley Common South,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,184,525,173,"1,034",16.7%,17.8%
+E01031083,Galley Common West & Rural,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,362,499,173,"1,212",14.3%,29.9%
+E01031084,Chapel End,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,327,419,95,"1,062",8.9%,30.8%
+E01031085,Galley Common East,Galley Common,Camp Hill & Galley Common ,Nuneaton & Bedworth,285,452,138,"1,097",12.6%,26.0%
+E01031086,Goodyers End,Heath,Bedworth North ,Nuneaton & Bedworth,505,411,104,"1,278",8.1%,39.5%
+E01031087,Heath Sports,Heath,Bedworth North ,Nuneaton & Bedworth,457,304,109,"1,074",10.1%,42.6%
+E01031088,Market End and Newdigate,Heath,Bedworth North ,Nuneaton & Bedworth,439,323,80,"1,038",7.7%,42.3%
+E01031089,Little Heath,Heath,Bedworth North ,Nuneaton & Bedworth,410,384,114,"1,163",9.8%,35.3%
+E01031090,Kingswood Grove Farm & Rural,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,515,268,56,"1,047",5.3%,49.2%
+E01031091,Kingswood St Pauls,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,330,325,83,946,8.8%,34.9%
+E01031092,Kingswood Stockingford Schools,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,421,259,59,945,6.2%,44.6%
+E01031093,Kingswood Hills,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,387,369,97,"1,087",8.9%,35.6%
+E01031094,Kingswood North East,Kingswood,Arbury & Stockingford ,Nuneaton & Bedworth,367,266,51,873,5.8%,42.0%
+E01031095,Poplar Nicholas Chamberlain,Poplar,Bedworth South ,Nuneaton & Bedworth,445,239,50,912,5.5%,48.8%
+E01031096,Poplar North West,Poplar,Bedworth South ,Nuneaton & Bedworth,305,345,115,900,12.8%,33.9%
+E01031097,Poplar Coalpit Field,Poplar,Bedworth South ,Nuneaton & Bedworth,435,269,71,931,7.6%,46.7%
+E01031098,Poplar Bayton Road,Poplar,Bedworth South ,Nuneaton & Bedworth,367,425,140,"1,079",13.0%,34.0%
+E01031099,Poplar South,Poplar,Bedworth South ,Nuneaton & Bedworth,319,560,208,"1,218",17.1%,26.2%
+E01031100,St Nicolas Horeston Grange West,St. Nicolas,Weddington & St. Nicolas ,Nuneaton & Bedworth,191,600,248,"1,070",23.2%,17.9%
+E01031101,St Nicolas Horeston Grange East,St. Nicolas,Weddington & St. Nicolas ,Nuneaton & Bedworth,197,568,236,"1,011",23.3%,19.5%
+E01031102,St Nicolas South West,St. Nicolas,Weddington & St. Nicolas ,Nuneaton & Bedworth,246,472,197,954,20.6%,25.8%
+E01031103,St Nicolas East & The Long Shoot,St. Nicolas,Weddington & St. Nicolas ,Nuneaton & Bedworth,184,545,272,958,28.4%,19.2%
+E01031104,St Nicolas North & College,St. Nicolas,Weddington & St. Nicolas,Nuneaton & Bedworth,330,526,255,"1,138",22.4%,29.0%
+E01031105,Slough Mt Pleasant,Slough,Bedworth North ,Nuneaton & Bedworth,379,348,100,"1,042",9.6%,36.4%
+E01031106,Slough South & Heath,Slough,Bedworth North ,Nuneaton & Bedworth,385,416,156,"1,111",14.0%,34.7%
+E01031107,Slough Collycroft North,Slough,Bedworth North ,Nuneaton & Bedworth,275,326,75,908,8.3%,30.3%
+E01031108,Slough West and Rural,Slough,Bedworth North ,Nuneaton & Bedworth,253,451,136,"1,020",13.3%,24.8%
+E01031109,Slough Collycroft South,Slough,Bedworth North ,Nuneaton & Bedworth,435,356,108,"1,108",9.7%,39.3%
+E01031110,Weddington St Nicholas West,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,246,610,290,"1,118",25.9%,22.0%
+E01031111,Weddington St Nicholas East,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,131,521,254,881,28.8%,14.9%
+E01031112,Weddington South & Schools,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,332,450,185,"1,090",17.0%,30.5%
+E01031113,Weddington North,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,357,450,163,"1,101",14.8%,32.4%
+E01031114,Wedding South West & River,Weddington,Weddington & St. Nicolas ,Nuneaton & Bedworth,385,380,126,"1,093",11.5%,35.2%
+E01031115,Wem Brook Bridges,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,452,361,112,"1,089",10.3%,41.5%
+E01031116,Middlemarch & Swimming Pool,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,463,249,69,986,7.0%,47.0%
+E01031117,Wem Brook East,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,439,182,40,821,4.9%,53.5%
+E01031118,Hill Top,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,401,185,46,780,5.9%,51.4%
+E01031119,Riversley,Wem Brook,Abbey & Wem Brook ,Nuneaton & Bedworth,506,349,134,"1,116",12.0%,45.3%
+E01031120,Whitestone North West & Attleborough Fields,Whitestone,Weddington & St. Nicolas/Whitestone & Bulkington,Nuneaton & Bedworth,208,626,250,"1,120",22.3%,18.6%
+E01031121,Whitestone North,Whitestone,Weddington & St. Nicolas/Whitestone & Bulkington,Nuneaton & Bedworth,149,562,229,"1,011",22.7%,14.7%
+E01031122,Whitestone South,Whitestone,Whitestone & Bulkington/Weddington & St. Nicolas,Nuneaton & Bedworth,288,579,224,"1,174",19.1%,24.5%
+E01031123,Whitestone East & Rural,Whitestone,Whitestone & Bulkington ,Nuneaton & Bedworth,197,582,275,"1,038",26.5%,19.0%
+E01031124,Whitestone South,Whitestone,Whitestone & Bulkington ,Nuneaton & Bedworth,301,648,296,"1,233",24.0%,24.4%
+E01031125,Admirals North,Admirals,Rugby Town West ,Rugby,278,546,191,"1,197",16.0%,23.2%
+E01031126,Cawston,Admirals,Rugby Town West ,Rugby,188,663,301,"1,158",26.0%,16.2%
+E01031127,Admirals East,Admirals,Rugby Town West ,Rugby,303,429,134,"1,052",12.7%,28.8%
+E01031128,"Easenhall, Newton & Biggin and Harborough Magna",Avon and Swift,Rugby Rural ,Rugby,230,539,248,995,24.9%,23.1%
+E01031129,Clifton Upon Dunsmore,Avon and Swift,Rugby Rural ,Rugby,179,421,200,821,24.4%,21.8%
+E01031130,Benn Station,Benn,Rugby Town North ,Rugby,265,508,170,"1,098",15.5%,24.1%
+E01031131,Benn West,Benn,Rugby Town North ,Rugby,310,585,217,"1,188",18.3%,26.1%
+E01031132,Benn South,Benn,Rugby Town North ,Rugby,266,651,306,"1,217",25.1%,21.9%
+E01031133,Whinfield Park,Benn,Rugby Town North ,Rugby,301,509,191,"1,109",17.2%,27.1%
+E01031134,Bilton East,Bilton,Rugby Town West ,Rugby,247,732,371,"1,259",29.5%,19.6%
+E01031135,Bilton South Cock Robin,Bilton,Rugby Town West ,Rugby,317,628,310,"1,268",24.4%,25.0%
+E01031136,Bilton North West,Bilton,Rugby Town West ,Rugby,273,541,245,"1,110",22.1%,24.6%
+E01031137,Brownsover North Lake District,Brownsover North,Rugby Town North ,Rugby,184,474,177,901,19.6%,20.4%
+E01031138,Brownsover North - East,Brownsover North,Rugby Town North ,Rugby,126,551,217,895,24.2%,14.1%
+E01031139,Brownsover North Campion,Brownsover North,Rugby Town North ,Rugby,134,809,344,"1,247",27.6%,10.7%
+E01031140,Brownsover South Lake District South,Brownsover South,Rugby Town North ,Rugby,305,428,143,"1,046",13.7%,29.2%
+E01031141,Brownsover South Junction One,Brownsover South,Rugby Town North ,Rugby,225,363,149,811,18.4%,27.7%
+E01031142,Brownsover South Lake District North,Brownsover South,Rugby Town North ,Rugby,377,301,55,"1,040",5.3%,36.3%
+E01031143,Caldecott South and Rural,Caldecott,Rugby Town West ,Rugby,213,662,300,"1,177",25.5%,18.1%
+E01031144,Caldecott North East,Caldecott,Rugby Town West ,Rugby,150,487,259,793,32.7%,18.9%
+E01031145,Caldecott North West,Caldecott,Rugby Town West ,Rugby,188,592,187,908,20.6%,20.7%
+E01031146,Caldecott Rokeby,Caldecott,Rugby Town West ,Rugby,286,440,195,968,20.1%,29.5%
+E01031147,Thurlaston,Dunchurch and Knightlow,Rugby Rural ,Rugby,146,589,305,944,32.3%,15.5%
+E01031148,Dunchurch,Dunchurch and Knightlow,Rugby Rural ,Rugby,217,570,314,992,31.7%,21.9%
+E01031149,"Princethorpe, Marton, Frankton, Bourton & Draycote",Dunchurch and Knightlow,Rugby Rural ,Rugby,239,577,298,"1,059",28.1%,22.6%
+E01031150,Stretton on Dunsmore,Dunchurch and Knightlow,Rugby Rural ,Rugby,206,452,254,839,30.3%,24.6%
+E01031151,Binley Woods North,Earl Craven and Wolston,Rugby Rural ,Rugby,308,511,221,"1,133",19.5%,27.2%
+E01031152,Binley Woods South,Earl Craven and Wolston,Rugby Rural ,Rugby,243,384,149,883,16.9%,27.5%
+E01031153,Wolston South,Earl Craven and Wolston,Rugby Rural ,Rugby,286,432,181,998,18.1%,28.7%
+E01031154,Brandon and Wolston North,Earl Craven and Wolston,Rugby Rural ,Rugby,227,555,254,"1,080",23.5%,21.0%
+E01031155,Eastlands South,Eastlands,Rugby Town East ,Rugby,147,552,238,951,25.0%,15.5%
+E01031156,Eastlands South West,Eastlands,Rugby Town East ,Rugby,218,473,158,"1,011",15.6%,21.6%
+E01031157,Eastlands North,Eastlands,Rugby Town East ,Rugby,231,626,279,"1,146",24.3%,20.2%
+E01031158,Eastlands Abbots,Eastlands,Rugby Town East ,Rugby,209,312,133,765,17.4%,27.3%
+E01031159,Fosse West,Fosse,Rugby Rural ,Rugby,345,551,221,"1,175",18.8%,29.4%
+E01031160,Fosse East,Fosse,Rugby Rural ,Rugby,406,784,390,"1,510",25.8%,26.9%
+E01031161,Hillmorton North and Locks,Hillmorton,Rugby Town East ,Rugby,443,618,217,"1,542",14.1%,28.7%
+E01031162,Hillmorton East and Wharf,Hillmorton,Rugby Town East ,Rugby,334,508,199,"1,187",16.8%,28.1%
+E01031163,Hillmorton West,Hillmorton,Rugby Town East ,Rugby,377,394,161,"1,065",15.1%,35.4%
+E01031164,Long Lawford South,Lawford and King's Newnham,Rugby Rural ,Rugby,325,615,246,"1,301",18.9%,25.0%
+E01031165,"Church Lawford, Kings Newnham & Long Lawford North",Lawford and King's Newnham,Rugby Rural ,Rugby,375,419,166,"1,085",15.3%,34.6%
+E01031166,Leam Valley,Leam Valley,Rugby Rural ,Rugby,266,849,447,"1,387",32.2%,19.2%
+E01031167,New Bilton South East,New Bilton,Rugby Town West ,Rugby,229,438,171,925,18.5%,24.8%
+E01031168,New Bilton West & Somers Rd,New Bilton,Rugby Town West ,Rugby,319,356,109,975,11.2%,32.7%
+E01031169,New Bilton North,New Bilton,Rugby Town West ,Rugby,382,453,164,"1,103",14.9%,34.6%
+E01031170,New Bilton East,New Bilton,Rugby Town West ,Rugby,350,467,148,"1,092",13.6%,32.1%
+E01031171,Newbold Riverside,Newbold,Rugby Town North ,Rugby,309,438,157,"1,056",14.9%,29.3%
+E01031172,Newbold on Avon,Newbold,Rugby Town North ,Rugby,432,342,92,"1,062",8.7%,40.7%
+E01031173,Town Centre,Newbold,Rugby Town North ,Rugby,353,470,181,"1,070",16.9%,33.0%
+E01031174,Cattlemarket,Newbold,Rugby Town North ,Rugby,338,497,193,"1,090",17.7%,31.0%
+E01031175,Overslade South East,Overslade,Rugby Town West,Rugby,200,530,294,969,30.3%,20.6%
+E01031176,Overslade North,Overslade,Rugby Town West ,Rugby,321,315,103,873,11.8%,36.8%
+E01031177,Overslade North West,Overslade,Rugby Town West ,Rugby,318,399,131,"1,008",13.0%,31.5%
+E01031178,Overslade West,Overslade,Rugby Town West ,Rugby,316,392,159,983,16.2%,32.1%
+E01031179,Paddox South,Paddox,Rugby Town East ,Rugby,250,621,249,"1,219",20.4%,20.5%
+E01031180,Paddox North,Paddox,Rugby Town East ,Rugby,353,675,262,"1,393",18.8%,25.3%
+E01031181,Ryton on Dunsmore,Ryton on Dunsmore,Rugby Rural ,Rugby,373,570,247,"1,275",19.4%,29.3%
+E01031182,Wolvey,Wolvey,Rugby Rural ,Rugby,386,850,293,"1,731",16.9%,22.3%
+E01031183,"Alcester South, Arrow & Weethley",Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,236,642,291,"1,183",24.6%,19.9%
+E01031184,"Abbey, Grammar & Kings Coughton",Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,193,616,277,"1,058",26.2%,18.2%
+E01031185,Alcester North & Conway,Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,466,323,96,"1,074",8.9%,43.4%
+E01031186,Alcester East & Island,Alcester,"Alcester, Studley & Henley ",Stratford-on-Avon,357,431,155,"1,062",14.6%,33.6%
+E01031187,Aston Cantlow,Aston Cantlow,"Alcester, Studley & Henley ",Stratford-on-Avon,311,839,402,"1,455",27.6%,21.4%
+E01031188,Bardon,Bardon,"Alcester, Studley & Henley ",Stratford-on-Avon,330,733,347,"1,362",25.5%,24.2%
+E01031189,Dunnington and Salford Priors,Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,355,452,184,"1,049",17.5%,33.8%
+E01031190,"Bidford East, Waterloo & Broom",Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,391,447,141,"1,147",12.3%,34.1%
+E01031191,Bidford West and Wixford,Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,238,710,308,"1,207",25.5%,19.7%
+E01031192,"Bidford South, Marlcliff and Barton",Bidford and Salford,"Alcester, Studley & Henley ",Stratford-on-Avon,264,691,292,"1,240",23.5%,21.3%
+E01031193,Brailes,Brailes,Stratford-on-Avon & Shipston ,Stratford-on-Avon,334,849,365,"1,515",24.1%,22.0%
+E01031194,Burton Dassett,Burton Dassett,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,333,886,431,"1,524",28.3%,21.9%
+E01031195,Claverdon,Claverdon,"Alcester, Studley & Henley ",Stratford-on-Avon,343,967,499,"1,623",30.7%,21.1%
+E01031196,Ettington,Ettington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,281,905,438,"1,519",28.8%,18.5%
+E01031197,Ladbroke & Priors,Fenny Compton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,159,493,258,800,32.3%,19.9%
+E01031198,"Fenny Compton, Farnborough & Avon Dassett",Fenny Compton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,217,547,262,951,27.5%,22.8%
+E01031199,"Deppers Bridge, Chester & Kings",Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,343,488,221,"1,063",20.8%,32.3%
+E01031200,Bishops Itchington,Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,292,497,200,"1,103",18.1%,26.5%
+E01031201,Harbury,Harbury,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,173,768,408,"1,199",34.0%,14.4%
+E01031202,Henley West,Henley,"Alcester, Studley & Henley ",Stratford-on-Avon,192,729,362,"1,095",33.1%,17.5%
+E01031203,Henley East and Beaudesert,Henley,"Alcester, Studley & Henley ",Stratford-on-Avon,319,442,175,"1,010",17.3%,31.6%
+E01031204,Wootton Wawen,Henley,"Alcester, Studley & Henley",Stratford-on-Avon,312,385,171,881,19.4%,35.4%
+E01031205,"Kineton, Chadshunt & Compton Verney",Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,207,710,361,"1,160",31.1%,17.8%
+E01031206,"Kineton Castle, Lt Kineton & Combrook",Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,288,496,254,"1,018",25.0%,28.3%
+E01031207,Lighthorne & Lighthorne Heath,Kineton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,257,449,174,930,18.7%,27.6%
+E01031208,Kinwarton,Kinwarton,"Alcester, Studley & Henley ",Stratford-on-Avon,326,862,406,"1,551",26.2%,21.0%
+E01031209,Long Compton,Long Compton,Stratford-on-Avon & Shipston ,Stratford-on-Avon,373,862,426,"1,485",28.7%,25.1%
+E01031210,Long Itchington West & Ufton,Long Itchington,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,185,586,301,953,31.6%,19.4%
+E01031211,Long Itchington East,Long Itchington,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,276,324,164,778,21.1%,35.5%
+E01031212,Quinton,Quinton,Stratford-on-Avon & Shipston ,Stratford-on-Avon,388,851,350,"1,642",21.3%,23.6%
+E01031213,Sambourne,Sambourne,"Alcester, Studley & Henley ",Stratford-on-Avon,296,722,312,"1,310",23.8%,22.6%
+E01031214,Shipston South & Furze Hill,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,210,587,251,"1,033",24.3%,20.3%
+E01031215,Shipston North,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,302,510,197,"1,137",17.3%,26.6%
+E01031216,Shipston West and Town Centre,Shipston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,318,379,137,991,13.8%,32.1%
+E01031217,Snitterfield & Wolverton,Snitterfield,"Alcester, Studley & Henley ",Stratford-on-Avon,184,464,250,789,31.7%,23.3%
+E01031218,Hampton Lucy & Fulbrook,Snitterfield,"Southam, Wellesbourne & Kineton/Alcester, Studley & Henley",Stratford-on-Avon,158,537,260,855,30.4%,18.5%
+E01031219,Southam East,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,161,623,299,"1,064",28.1%,15.1%
+E01031220,Southam North,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,340,466,179,"1,108",16.2%,30.7%
+E01031221,Southam West,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,437,311,113,"1,050",10.8%,41.6%
+E01031222,Southam South & Town Centre,Southam,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,312,776,363,"1,465",24.8%,21.3%
+E01031223,Stockton,Stockton and Napton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,276,445,193,"1,013",19.1%,27.2%
+E01031224,Napton on the Hill,Stockton and Napton,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,156,439,222,771,28.8%,20.2%
+E01031225,Bridgetown,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,190,722,388,"1,154",33.6%,16.5%
+E01031226,Stratford South East & Alveston Hill,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,182,888,463,"1,282",36.1%,14.2%
+E01031227,Tiddington & Alveston,Stratford Alveston,Stratford-on-Avon & Shipston ,Stratford-on-Avon,288,721,347,"1,298",26.7%,22.2%
+E01031228,Clopton & Welcombe Hills,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,260,743,340,"1,252",27.2%,20.8%
+E01031229,Town Centre North,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,205,836,414,"1,259",32.9%,16.3%
+E01031230,The Avenue,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,302,519,185,"1,099",16.8%,27.5%
+E01031231,Maybird,Stratford Avenue and New Town,Stratford-on-Avon & Shipston ,Stratford-on-Avon,380,523,239,"1,184",20.2%,32.1%
+E01031232,Shottery South & Racecourse,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,172,803,422,"1,245",33.9%,13.8%
+E01031233,Shottery North & Racecourse,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,289,519,228,"1,029",22.2%,28.1%
+E01031234,Old Town & Town Centre South,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,174,742,353,"1,119",31.5%,15.5%
+E01031235,Old Town,Stratford Guild and Hathaway,Stratford-on-Avon & Shipston ,Stratford-on-Avon,280,653,294,"1,174",25.0%,23.9%
+E01031236,Bishopton,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,294,548,206,"1,156",17.8%,25.4%
+E01031237,Stratford Mount Pleasant West,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,281,517,200,"1,132",17.7%,24.8%
+E01031238,Stratford Mount Pleasant East,Stratford Mount Pleasant,Stratford-on-Avon & Shipston ,Stratford-on-Avon,356,324,107,940,11.4%,37.9%
+E01031239,Studley East & Priory,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,232,629,254,"1,136",22.4%,20.4%
+E01031240,Studley North,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,317,393,136,"1,001",13.6%,31.7%
+E01031241,Studley West & Common,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,335,511,203,"1,122",18.1%,29.9%
+E01031242,Studley South,Studley,"Alcester, Studley & Henley ",Stratford-on-Avon,399,397,141,"1,058",13.3%,37.7%
+E01031243,Earlswood,Tanworth,"Alcester, Studley & Henley ",Stratford-on-Avon,395,713,323,"1,422",22.7%,27.8%
+E01031244,Tanworth,Tanworth,"Alcester, Studley & Henley ",Stratford-on-Avon,301,773,345,"1,366",25.3%,22.0%
+E01031245,Tredington & Blackwell,Tredington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,181,543,233,929,25.1%,19.5%
+E01031246,"Newbold-on-Stour, Ilmington East & Whitchurch",Tredington,Stratford-on-Avon & Shipston ,Stratford-on-Avon,142,495,229,807,28.4%,17.6%
+E01031247,Vale of the Red Horse,Vale of the Red Horse,Stratford-on-Avon & Shipston ,Stratford-on-Avon,380,947,421,"1,657",25.4%,22.9%
+E01031248,Welford,Welford,"Alcester, Studley & Henley ",Stratford-on-Avon,306,880,406,"1,485",27.3%,20.6%
+E01031249,Wellesbourne West,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,235,428,140,902,15.5%,26.1%
+E01031250,"Wellesbourne East, Walton & Airfield",Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,242,622,299,"1,125",26.6%,21.5%
+E01031251,Wellesbourne South,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,164,518,209,912,22.9%,18.0%
+E01031252,"Moreton Morrell, Ashorne & Newbold Pacey",Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,170,633,285,960,29.7%,17.7%
+E01031253,Wellesbourne North,Wellesbourne,"Southam, Wellesbourne & Kineton ",Stratford-on-Avon,296,541,248,"1,072",23.1%,27.6%
+E01031254,Castle & Burton Green,Abbey,Kenilworth ,Warwick,190,677,352,"1,105",31.9%,17.2%
+E01031255,Castle Green & Malthouse,Abbey,Kenilworth ,Warwick,133,745,445,"1,097",40.6%,12.1%
+E01031256,Abbey Fields,Abbey,Kenilworth ,Warwick,126,821,480,"1,106",43.4%,11.4%
+E01031257,Abbey East,Abbey,Kenilworth ,Warwick,256,553,295,"1,049",28.1%,24.4%
+E01031258,Town Centre North,Abbey,Kenilworth ,Warwick,191,707,434,"1,059",41.0%,18.0%
+E01031259,Bishops Tachbrook North & Warwick Gates,Bishops Tachbrook,Warwick Rural ,Warwick,145,552,277,908,30.5%,16.0%
+E01031260,Bishops Tachbrook South,Bishops Tachbrook,Warwick Rural ,Warwick,292,406,142,965,14.7%,30.3%
+E01031261,Brunswick South West & kingsway,Brunswick,South Leamington & Whitnash ,Warwick,399,526,122,"1,140",10.7%,35.0%
+E01031262,Brunswick South & Cemetary,Brunswick,South Leamington & Whitnash ,Warwick,305,541,228,"1,081",21.1%,28.2%
+E01031263,Brunswick North East,Brunswick,South Leamington & Whitnash ,Warwick,326,783,202,"1,282",15.8%,25.4%
+E01031264,Brunswick South East,Brunswick,South Leamington & Whitnash ,Warwick,503,360,99,"1,117",8.9%,45.0%
+E01031265,Brunswick North West & Foundry,Brunswick,South Leamington & Whitnash ,Warwick,397,439,112,"1,086",10.3%,36.6%
+E01031266,Old Town West & Railway Bridge,Brunswick,South Leamington & Whitnash ,Warwick,264,858,331,"1,331",24.9%,19.8%
+E01031267,Hampton-on-the-Hill,Budbrooke,Warwick Rural ,Warwick,229,858,421,"1,414",29.8%,16.2%
+E01031268,Hatton & Hampton Magna,Budbrooke,Warwick Rural ,Warwick,236,871,475,"1,423",33.4%,16.6%
+E01031269,"Sherbourne, Barford & Wasperton",Budbrooke,Warwick Rural ,Warwick,193,711,404,"1,091",37.0%,17.7%
+E01031270,Town Centre,Clarendon,North Leamington ,Warwick,200,876,485,"1,226",39.6%,16.3%
+E01031271,Campion Hills & Newbold Comyn,Clarendon,North Leamington ,Warwick,275,792,451,"1,276",35.3%,21.6%
+E01031272,Clarendon North,Clarendon,North Leamington ,Warwick,244,878,501,"1,311",38.2%,18.6%
+E01031273,Lillington East,Crown,North Leamington ,Warwick,401,313,102,"1,004",10.2%,39.9%
+E01031274,Lillington West,Crown,North Leamington ,Warwick,355,439,191,"1,028",18.6%,34.5%
+E01031275,Crown North East,Crown,North Leamington ,Warwick,246,530,252,"1,023",24.6%,24.0%
+E01031276,Lillington South,Crown,North Leamington ,Warwick,400,340,105,"1,016",10.3%,39.4%
+E01031277,Cubbington West & New Cubbington,Cubbington,Warwick Rural ,Warwick,306,563,281,"1,137",24.7%,26.9%
+E01031278,"New Cubbington, Blackdown & Old Milverton",Cubbington,Warwick Rural ,Warwick,178,610,310,"1,052",29.5%,16.9%
+E01031279,Cubbington East,Cubbington,Warwick Rural ,Warwick,333,456,182,"1,077",16.9%,30.9%
+E01031280,"Bubbenhall, Wappenbury, Weston & Eathorpe",Cubbington,Warwick Rural ,Warwick,158,621,334,951,35.1%,16.6%
+E01031281,"Lapworth North, Baddesley Clinton & High Cross",Lapworth,Warwick Rural ,Warwick,162,681,338,"1,060",31.9%,15.3%
+E01031282,"Lapworth South, Bushwood, Lowsonford & Rowington",Lapworth,Warwick Rural ,Warwick,245,604,303,"1,071",28.3%,22.9%
+E01031283,"Wroxhall, Hasely & Honiley",Leek Wootton,Warwick Rural ,Warwick,186,592,278,962,28.9%,19.3%
+E01031284,"Leek Wootton, Guys Cliffe & Beausale",Leek Wootton,Warwick Rural ,Warwick,128,624,339,903,37.5%,14.2%
+E01031285,Manor South West,Manor,North Leamington ,Warwick,187,"1,089",726,"1,476",49.2%,12.7%
+E01031286,Manor South & Round Oaks,Manor,North Leamington ,Warwick,276,605,342,"1,054",32.4%,26.2%
+E01031287,Manor North,Manor,North Leamington ,Warwick,177,581,300,996,30.1%,17.8%
+E01031288,Manor West,Manor,North Leamington ,Warwick,163,669,390,"1,005",38.8%,16.2%
+E01031289,Manor East,Manor,North Leamington ,Warwick,214,602,286,"1,120",25.5%,19.1%
+E01031290,Milverton Cliffe,Milverton,North Leamington ,Warwick,161,867,548,"1,169",46.9%,13.8%
+E01031291,Milverton South East,Milverton,North Leamington ,Warwick,171,727,371,"1,037",35.8%,16.5%
+E01031292,Milverton West,Milverton,North Leamington ,Warwick,187,706,395,"1,135",34.8%,16.5%
+E01031293,Milverton South West,Milverton,North Leamington ,Warwick,237,537,321,952,33.7%,24.9%
+E01031294,Milverton East,Milverton,North Leamington ,Warwick,156,725,483,"1,028",47.0%,15.2%
+E01031295,Milverton North,Milverton,North Leamington ,Warwick,98,611,371,859,43.2%,11.4%
+E01031296,Knowle Hill & Glasshouse,Park Hill,Kenilworth ,Warwick,156,876,469,"1,283",36.6%,12.2%
+E01031297,Ladyes Hills & Mill End West,Park Hill,Kenilworth ,Warwick,268,762,414,"1,314",31.5%,20.4%
+E01031298,Whitemoor,Park Hill,Kenilworth ,Warwick,178,687,367,"1,124",32.7%,15.8%
+E01031299,Glass House & Windy Arbour,Park Hill,Kenilworth ,Warwick,104,798,469,"1,069",43.9%,9.7%
+E01031300,Mill End East & Crackley,Park Hill,Kenilworth ,Warwick,152,761,412,"1,179",34.9%,12.9%
+E01031301,Offchurch & Hunningham,Radford Semele,Warwick Rural ,Warwick,201,668,377,"1,103",34.2%,18.2%
+E01031302,Radford Semele,Radford Semele,Warwick Rural ,Warwick,215,330,137,747,18.3%,28.8%
+E01031303,Town Centre South,St John's,Kenilworth ,Warwick,265,511,290,"1,004",28.9%,26.4%
+E01031304,Borrowell,St John's,Kenilworth ,Warwick,245,530,244,"1,066",22.9%,23.0%
+E01031305,Thickthorn & Castle End,St John's,Kenilworth ,Warwick,160,738,428,"1,075",39.8%,14.9%
+E01031306,St John's Playing Fields,St John's,Kenilworth ,Warwick,248,607,311,"1,089",28.6%,22.8%
+E01031307,Castle End & Windy Arbour,St John's,Kenilworth ,Warwick,213,694,397,"1,115",35.6%,19.1%
+E01031308,Stoneleigh,Stoneleigh,Warwick Rural/Kenilworth,Warwick,279,"2,065",959,"2,618",36.6%,10.7%
+E01031309,Emscote,Warwick North,Warwick ,Warwick,311,541,287,"1,111",25.8%,28.0%
+E01031310,Woodloes South East & Spinney Hill South,Warwick North,Warwick ,Warwick,281,502,237,"1,001",23.7%,28.1%
+E01031311,Emscote & Spinney Hill North East,Warwick North,Warwick ,Warwick,390,367,134,993,13.5%,39.3%
+E01031312,Wedgenock & Woodloes West,Warwick North,Warwick ,Warwick,285,389,140,922,15.2%,30.9%
+E01031313,Woodloes North,Warwick North,Warwick ,Warwick,242,586,263,"1,124",23.4%,21.5%
+E01031314,Woodloes East,Warwick North,Warwick ,Warwick,215,609,268,"1,146",23.4%,18.8%
+E01031315,"Warwick Gates North, Tachbrook Park & Myton South",Warwick South,Warwick ,Warwick,149,630,331,990,33.4%,15.1%
+E01031316,"St Nicholas Park, Myton & Emscote South",Warwick South,Warwick ,Warwick,238,613,352,"1,039",33.9%,22.9%
+E01031317,"Bridge End, Castle & Stratford Rd East",Warwick South,Warwick ,Warwick,163,762,479,"1,090",43.9%,15.0%
+E01031318,Warwick Gates,Warwick South,Warwick ,Warwick,159,733,414,"1,072",38.6%,14.8%
+E01031319,Emscote Lawns,Warwick South,Warwick ,Warwick,264,642,357,"1,122",31.8%,23.5%
+E01031320,The Moorings and Myton North,Warwick South,Warwick ,Warwick,191,650,348,"1,031",33.8%,18.5%
+E01031321,Packmores West & The Cape,Warwick West,Warwick ,Warwick,399,281,83,893,9.3%,44.7%
+E01031322,The Cape & Wedgenock,Warwick West,Warwick ,Warwick,329,376,177,968,18.3%,34.0%
+E01031323,"Priory Park, Packmores & Hospital",Warwick West,Warwick ,Warwick,252,636,378,"1,090",34.7%,23.1%
+E01031324,Town Centre & Racecourse,Warwick West,Warwick ,Warwick,222,715,399,"1,123",35.5%,19.8%
+E01031325,Warwick West East,Warwick West,Warwick ,Warwick,386,380,146,984,14.8%,39.2%
+E01031326,Kings Meadow & Longbridge,Warwick West,Warwick ,Warwick,250,419,194,877,22.1%,28.5%
+E01031327,Whitnash North,Whitnash,South Leamington & Whitnash ,Warwick,377,389,121,"1,043",11.6%,36.1%
+E01031328,Whitnash East & Millponds,Whitnash,South Leamington & Whitnash ,Warwick,356,440,187,"1,146",16.3%,31.1%
+E01031329,Whitnash West,Whitnash,South Leamington & Whitnash ,Warwick,287,539,235,"1,098",21.4%,26.1%
+E01031330,Whitnash St Margarets,Whitnash,South Leamington & Whitnash ,Warwick,322,471,174,"1,134",15.3%,28.4%
+E01031331,Whitnash South,Whitnash,South Leamington & Whitnash ,Warwick,325,507,183,"1,149",15.9%,28.3%
+E01031332,Sydenham West,Willes,South Leamington & Whitnash ,Warwick,411,372,145,"1,041",13.9%,39.5%
+E01031333,Sydenham North,Willes,South Leamington & Whitnash ,Warwick,362,472,158,"1,069",14.8%,33.9%
+E01031334,Sydenham South & East,Willes,South Leamington & Whitnash ,Warwick,272,529,209,"1,157",18.1%,23.5%
+E01031335,Old Town North,Willes,South Leamington & Whitnash ,Warwick,148,842,524,"1,101",47.6%,13.4%
+E01031336,Old Town North West,Willes,South Leamington & Whitnash ,Warwick,173,999,446,"1,335",33.4%,13.0%
+E01031337,Old Town East & Sydenham Ind. Est.,Willes,South Leamington & Whitnash ,Warwick,177,856,514,"1,197",42.9%,14.8%
