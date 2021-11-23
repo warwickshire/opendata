@@ -1,0 +1,847 @@
+Trans No,Supplier,Amount,Directorate,Pay Date
+12252,123 Reg Ltd,9.99,Resources,10/08/2021
+3214,123 Reg Ltd,1.00,Resources,15/08/2021
+4774,123 Reg Ltd,0.99,Resources,20/08/2021
+4660,123 Reg Ltd,19.98,Resources,30/08/2021
+3813,1mb Tech,4.00,Communities,06/08/2021
+12595,2maa026776049 Td E-Pmt,75.00,People,06/08/2021
+13174,2maa026896752 Td E-Pmt,75.00,People,16/08/2021
+160,Absolute Locksmith,140.00,People,13/08/2021
+29313,Adobe Dw Creative Cld,12.64,Resources,31/08/2021
+6013,Aimuseums,98.00,Communities,12/08/2021
+4648,Airbnb * Hme3eswr4w,1789.20,People,04/08/2021
+4558,Airbnb * Hme3eswr4w,1473.46,People,18/08/2021
+1503,Airbnb * Hmsfrsn9nw,452.00,People,10/08/2021
+1187,Airbnb * Hmw2fcrap8,2798.41,People,31/08/2021
+27779,Aldi 112 772,20.77,People,17/08/2021
+28125,Aldi 22 772,2.19,People,12/08/2021
+27783,Aldi 56 772,29.97,People,17/08/2021
+27771,Aldi 89 772,19.20,People,17/08/2021
+16907,Allpay *citizen Housin,87.32,People,10/08/2021
+16227,Allpay *citizen Housin,50.00,People,12/08/2021
+17428,Allpay *midland Heart,445.51,People,18/08/2021
+1762,Amazon Prime*0t8i08z75,6.66,Communities,11/08/2021
+4415,Amazon Prime*k675u12e5,6.66,People,27/08/2021
+135,Amazon.Co.Uk*0c7491g45,1053.50,Communities,22/08/2021
+4574,Amazon.Co.Uk*1092d7e75,74.99,People,25/08/2021
+4903,Amazon.Co.Uk*1o24t7ab5,62.83,Communities,13/08/2021
+15807,Amazon.Co.Uk*241kp6pi5,47.63,Resources,26/08/2021
+9220,Amazon.Co.Uk*2l2sv7x35,56.18,Resources,17/08/2021
+9213,Amazon.Co.Uk*3f70j2tw5,16.93,Communities,12/08/2021
+3742,Amazon.Co.Uk*5r2x29jn5,58.37,Communities,18/08/2021
+4394,Amazon.Co.Uk*663be87n5,74.17,Resources,10/08/2021
+29663,Amazon.Co.Uk*6n4fv8aq5,23.98,People,05/08/2021
+636,Amazon.Co.Uk*6w0g31xf5,10.54,People,11/08/2021
+1462,Amazon.Co.Uk*7x7mm6lk5,53.17,Communities,20/08/2021
+400,Amazon.Co.Uk*866c42rj5,41.42,Communities,11/08/2021
+1220,Amazon.Co.Uk*cm0f18ew5,12.50,Communities,25/08/2021
+2868,Amazon.Co.Uk*dt7mk4bq5,15.55,Fire and Rescue,08/08/2021
+3705,Amazon.Co.Uk*ea7vu1vp5,50.48,Communities,18/08/2021
+3705,Amazon.Co.Uk*ea7vu1vp5,25.24,Communities,18/08/2021
+3705,Amazon.Co.Uk*ea7vu1vp5,25.24,Communities,18/08/2021
+3715,Amazon.Co.Uk*f86vh7uh5,13.36,Resources,26/08/2021
+25734,Amazon.Co.Uk*gg0c68qb5,55.93,Communities,13/08/2021
+3619,Amazon.Co.Uk*gw4k89cb5,16.58,Communities,20/08/2021
+825,Amazon.Co.Uk*gy2f94kq5,12.50,Communities,25/08/2021
+25346,Amazon.Co.Uk*h337e12g5,11.15,Communities,13/08/2021
+11401,Amazon.Co.Uk*i107d3tt5,20.00,Communities,16/08/2021
+25330,Amazon.Co.Uk*j31aq8qc5,32.96,Communities,13/08/2021
+9201,Amazon.Co.Uk*kr1in7dy5,112.37,Resources,10/08/2021
+5425,Amazon.Co.Uk*nw9uh4km5,13.74,Communities,25/08/2021
+15782,Amazon.Co.Uk*o80rd5wy5,13.50,Communities,03/08/2021
+5635,Amazon.Co.Uk*on2gx9wh5,13.74,Communities,25/08/2021
+4126,Amazon.Co.Uk*pq64982o5,11.58,Communities,06/08/2021
+8137,Amazon.Co.Uk*qk4os4up5,35.28,Communities,11/08/2021
+1894,Amazon.Co.Uk*qs6k91h75,12.14,People,30/08/2021
+13471,Amazon.Co.Uk*r13yb52b5,26.77,Communities,17/08/2021
+20679,Amazon.Co.Uk*rh7nt2eq5,16.24,Communities,12/08/2021
+9574,Amazon.Co.Uk*tc8fc8t85,31.53,Resources,26/08/2021
+354,Amazon.Co.Uk*tk9he4a85,21.98,People,09/08/2021
+2350,Amazon.Co.Uk*tr8uh1uc5,20.00,Communities,25/08/2021
+9022,Amazon.Co.Uk*u89fg9165,28.99,Fire and Rescue,12/08/2021
+4447,Amazon.Co.Uk*uf5979la5,17.54,Communities,18/08/2021
+668,Amazon.Co.Uk*v05iq0wr5,3.49,Communities,12/08/2021
+11991,Amazon.Co.Uk*w63wt60z5,33.37,Fire and Rescue,18/08/2021
+6196,Amazon.Co.Uk*wd9ga6785,20.58,People,23/08/2021
+331,Amazon.Co.Uk*zd7u731d5,14.62,Communities,14/08/2021
+15775,Amazon.Co.Uk*zx7nj4tm5,16.25,Communities,12/08/2021
+851,Amz*component Shop,-200.09,Communities,06/08/2021
+4611,Amznmktplace,62.49,People,02/08/2021
+4970,Amznmktplace,18.99,People,02/08/2021
+15918,Amznmktplace,13.27,Fire and Rescue,03/08/2021
+9525,Amznmktplace,19.17,Communities,03/08/2021
+2747,Amznmktplace,11.65,People,03/08/2021
+8839,Amznmktplace,39.99,People,03/08/2021
+3891,Amznmktplace,18.40,Communities,04/08/2021
+4602,Amznmktplace,169.17,People,04/08/2021
+4999,Amznmktplace,26.66,People,04/08/2021
+7525,Amznmktplace,15.81,People,04/08/2021
+92,Amznmktplace,29.16,People,04/08/2021
+16512,Amznmktplace,18.28,Communities,04/08/2021
+29104,Amznmktplace,18.17,People,05/08/2021
+2539,Amznmktplace,177.57,People,05/08/2021
+620,Amznmktplace,114.97,People,05/08/2021
+4459,Amznmktplace,19.23,Communities,05/08/2021
+8967,Amznmktplace,59.98,Fire and Rescue,05/08/2021
+2119,Amznmktplace,35.38,Communities,05/08/2021
+4123,Amznmktplace,59.98,People,05/08/2021
+2222,Amznmktplace,11.75,Communities,06/08/2021
+1207,Amznmktplace,11.74,People,06/08/2021
+2303,Amznmktplace,6.99,Fire and Rescue,06/08/2021
+2318,Amznmktplace,6.99,Fire and Rescue,06/08/2021
+3034,Amznmktplace,38.94,Communities,06/08/2021
+4074,Amznmktplace,30.00,Communities,06/08/2021
+5894,Amznmktplace,43.99,Communities,06/08/2021
+3423,Amznmktplace,29.94,Resources,06/08/2021
+3563,Amznmktplace,29.97,People,07/08/2021
+1523,Amznmktplace,98.21,People,07/08/2021
+2137,Amznmktplace,35.98,Communities,08/08/2021
+2161,Amznmktplace,58.50,Communities,08/08/2021
+790,Amznmktplace,42.98,People,08/08/2021
+319,Amznmktplace,6.24,Communities,09/08/2021
+2005,Amznmktplace,11.66,Communities,09/08/2021
+441,Amznmktplace,115.66,Communities,09/08/2021
+556,Amznmktplace,58.32,Communities,09/08/2021
+1664,Amznmktplace,118.31,Communities,10/08/2021
+16676,Amznmktplace,108.32,Communities,10/08/2021
+19741,Amznmktplace,216.65,Communities,10/08/2021
+305,Amznmktplace,257.50,People,10/08/2021
+254,Amznmktplace,12.47,Communities,10/08/2021
+2291,Amznmktplace,24.96,People,10/08/2021
+4468,Amznmktplace,96.60,Communities,10/08/2021
+1130,Amznmktplace,146.63,Communities,11/08/2021
+385,Amznmktplace,73.27,Communities,11/08/2021
+21237,Amznmktplace,14.12,People,11/08/2021
+4168,Amznmktplace,14.95,Communities,11/08/2021
+9781,Amznmktplace,1.62,Communities,12/08/2021
+15930,Amznmktplace,18.92,Communities,12/08/2021
+27239,Amznmktplace,3.98,People,12/08/2021
+4128,Amznmktplace,262.47,Communities,13/08/2021
+1242,Amznmktplace,30.82,People,14/08/2021
+1041,Amznmktplace,31.65,Resources,15/08/2021
+949,Amznmktplace,9.98,People,15/08/2021
+6523,Amznmktplace,9.69,Communities,16/08/2021
+2603,Amznmktplace,7.46,Fire and Rescue,16/08/2021
+11345,Amznmktplace,23.25,Fire and Rescue,16/08/2021
+4470,Amznmktplace,5.27,Fire and Rescue,16/08/2021
+4513,Amznmktplace,24.98,Fire and Rescue,16/08/2021
+2571,Amznmktplace,124.97,Resources,16/08/2021
+4711,Amznmktplace,16.11,Communities,16/08/2021
+11457,Amznmktplace,116.74,Communities,17/08/2021
+15509,Amznmktplace,19.97,Fire and Rescue,17/08/2021
+4074,Amznmktplace,9.69,Communities,17/08/2021
+2766,Amznmktplace,41.65,Fire and Rescue,17/08/2021
+4135,Amznmktplace,16.65,Fire and Rescue,17/08/2021
+4612,Amznmktplace,14.32,Fire and Rescue,17/08/2021
+6718,Amznmktplace,5.47,Fire and Rescue,17/08/2021
+4043,Amznmktplace,13.57,Fire and Rescue,17/08/2021
+5222,Amznmktplace,16.36,Communities,18/08/2021
+11763,Amznmktplace,17.15,Communities,18/08/2021
+4521,Amznmktplace,6.02,Communities,18/08/2021
+4996,Amznmktplace,4.08,Communities,18/08/2021
+1694,Amznmktplace,20.75,Resources,18/08/2021
+5058,Amznmktplace,13.32,Fire and Rescue,18/08/2021
+2781,Amznmktplace,13.32,Communities,19/08/2021
+1152,Amznmktplace,7.91,Fire and Rescue,19/08/2021
+11062,Amznmktplace,59.59,People,19/08/2021
+11553,Amznmktplace,17.49,People,19/08/2021
+4944,Amznmktplace,19.98,People,19/08/2021
+1094,Amznmktplace,44.16,Communities,20/08/2021
+3780,Amznmktplace,14.03,Communities,20/08/2021
+606,Amznmktplace,39.95,Communities,21/08/2021
+293,Amznmktplace,120.69,Communities,22/08/2021
+1787,Amznmktplace,14.07,Communities,22/08/2021
+1739,Amznmktplace,17.49,People,22/08/2021
+1663,Amznmktplace,9.65,Communities,22/08/2021
+6522,Amznmktplace,23.32,Communities,23/08/2021
+17552,Amznmktplace,9.00,Resources,23/08/2021
+255,Amznmktplace,57.67,Fire and Rescue,23/08/2021
+3632,Amznmktplace,51.08,Resources,23/08/2021
+2814,Amznmktplace,9.73,Fire and Rescue,23/08/2021
+9245,Amznmktplace,18.14,Fire and Rescue,23/08/2021
+2545,Amznmktplace,12.91,People,23/08/2021
+3257,Amznmktplace,7.91,People,23/08/2021
+3360,Amznmktplace,6.99,Communities,23/08/2021
+2587,Amznmktplace,30.00,Resources,23/08/2021
+3866,Amznmktplace,34.99,Communities,24/08/2021
+3362,Amznmktplace,6.62,Fire and Rescue,24/08/2021
+20803,Amznmktplace,102.06,Communities,24/08/2021
+4695,Amznmktplace,11.66,Communities,25/08/2021
+8147,Amznmktplace,16.99,People,25/08/2021
+1615,Amznmktplace,53.30,Communities,25/08/2021
+7569,Amznmktplace,96.23,Communities,25/08/2021
+308,Amznmktplace,4.95,People,25/08/2021
+47,Amznmktplace,7.49,People,25/08/2021
+1920,Amznmktplace,64.99,Communities,25/08/2021
+7178,Amznmktplace,15.98,Communities,25/08/2021
+3343,Amznmktplace,66.25,Communities,26/08/2021
+439,Amznmktplace,17.48,Communities,26/08/2021
+11869,Amznmktplace,11.77,Resources,26/08/2021
+16088,Amznmktplace,19.12,Resources,26/08/2021
+2903,Amznmktplace,2.74,Resources,26/08/2021
+11873,Amznmktplace,41.65,People,26/08/2021
+9356,Amznmktplace,49.98,People,26/08/2021
+3894,Amznmktplace,9.57,Resources,26/08/2021
+687,Amznmktplace,75.37,People,26/08/2021
+1590,Amznmktplace,23.30,Resources,27/08/2021
+1681,Amznmktplace,2.51,Resources,27/08/2021
+5089,Amznmktplace,6.79,Resources,27/08/2021
+2483,Amznmktplace,118.74,Communities,27/08/2021
+863,Amznmktplace,219.97,Communities,27/08/2021
+744,Amznmktplace,3.58,People,27/08/2021
+260,Amznmktplace,39.57,Resources,27/08/2021
+3876,Amznmktplace,12.94,People,27/08/2021
+825,Amznmktplace,540.00,People,27/08/2021
+1515,Amznmktplace,58.32,Communities,28/08/2021
+865,Amznmktplace,41.25,Communities,28/08/2021
+109,Amznmktplace,39.25,Communities,29/08/2021
+919,Amznmktplace,104.73,Communities,30/08/2021
+3703,Amznmktplace Amazon.Co,44.91,Communities,05/08/2021
+6191,Amznmktplace Amazon.Co,59.99,Communities,06/08/2021
+2225,Amznmktplace Amazon.Co,27.51,Communities,08/08/2021
+1257,Amznmktplace Amazon.Co,17.80,Resources,09/08/2021
+7357,Amznmktplace Amazon.Co,219.95,Communities,11/08/2021
+1851,Amznmktplace Amazon.Co,19.98,Communities,15/08/2021
+3748,Amznmktplace Amazon.Co,19.15,Resources,20/08/2021
+5804,Amznmktplace Amazon.Co,12.60,Communities,23/08/2021
+1797,Amznmktplace Amazon.Co,330.82,People,28/08/2021
+1346,Amznmktplace Amazon.Co,172.83,People,29/08/2021
+2888,Amznmktplace Amazon.Co,12.49,Communities,31/08/2021
+3249,Anker Service Station,11.00,People,04/08/2021
+3232,Anyvanuk,260.00,People,03/08/2021
+27859,Ao Retail Limited,209.00,People,03/08/2021
+26504,Ao Retail Limited,349.17,People,10/08/2021
+24131,Ao Retail Limited,165.83,People,12/08/2021
+26631,Ao Retail Limited,614.17,People,17/08/2021
+25340,Ao Retail Limited,224.17,People,18/08/2021
+23759,Ao Retail Limited,249.00,People,23/08/2021
+24883,Ao Retail Limited,589.17,People,31/08/2021
+10327,Apple.Com/Bill,2.07,Resources,30/08/2021
+22844,Appliancedirect Co,190.80,Communities,11/08/2021
+11752,Arc Media (Midlands) L,145.00,Communities,05/08/2021
+28294,Arco Limited (Sap),24.71,Communities,31/08/2021
+28294,Arco Limited (Sap),21.62,Communities,31/08/2021
+28298,Arco Limited (Sap),46.70,Communities,31/08/2021
+28298,Arco Limited (Sap),18.25,Communities,31/08/2021
+28298,Arco Limited (Sap),53.76,Communities,31/08/2021
+28298,Arco Limited (Sap),100.68,Communities,31/08/2021
+28298,Arco Limited (Sap),31.75,Communities,31/08/2021
+28298,Arco Limited (Sap),21.17,Communities,31/08/2021
+28298,Arco Limited (Sap),21.17,Communities,31/08/2021
+28298,Arco Limited (Sap),44.99,Communities,31/08/2021
+28298,Arco Limited (Sap),31.76,Communities,31/08/2021
+28298,Arco Limited (Sap),31.76,Communities,31/08/2021
+28298,Arco Limited (Sap),14.24,Communities,31/08/2021
+27591,Argos Ltd,36.67,People,03/08/2021
+27503,Argos Ltd,30.78,People,03/08/2021
+27587,Argos Ltd,208.95,People,03/08/2021
+28279,Argos Ltd,65.79,People,05/08/2021
+28283,Argos Ltd,596.64,People,05/08/2021
+5784,Argos Ltd,85.00,People,06/08/2021
+5228,Argos Ltd,202.95,Resources,06/08/2021
+25343,Argos Ltd,44.75,People,09/08/2021
+21968,Argos Ltd,166.67,People,09/08/2021
+21972,Argos Ltd,131.62,People,09/08/2021
+23291,Argos Ltd,149.99,People,11/08/2021
+23303,Argos Ltd,63.94,People,11/08/2021
+23283,Argos Ltd,209.99,Communities,11/08/2021
+23839,Argos Ltd,50.82,Communities,12/08/2021
+23831,Argos Ltd,322.44,People,12/08/2021
+4957,Argos Ltd,20.83,People,13/08/2021
+20376,Argos Ltd,-149.99,People,16/08/2021
+28266,Argos Ltd,28.29,People,17/08/2021
+28258,Argos Ltd,63.95,Communities,18/08/2021
+28262,Argos Ltd,379.99,Communities,18/08/2021
+26423,Argos Ltd,55.79,People,19/08/2021
+26427,Argos Ltd,300.92,People,19/08/2021
+26515,Argos Ltd,111.35,People,19/08/2021
+20924,Argos Ltd,120.58,People,23/08/2021
+20960,Argos Ltd,259.99,People,23/08/2021
+26666,Argos Ltd,99.12,People,24/08/2021
+25494,Argos Ltd,99.99,People,24/08/2021
+26694,Argos Ltd,17.46,People,24/08/2021
+30134,Argos Ltd,494.12,People,25/08/2021
+30142,Argos Ltd,838.27,People,25/08/2021
+30146,Argos Ltd,284.57,People,25/08/2021
+30257,Argos Ltd,169.12,People,25/08/2021
+30150,Argos Ltd,55.79,People,25/08/2021
+30369,Argos Ltd,31.99,People,25/08/2021
+23381,Argos Ltd,339.98,Resources,26/08/2021
+23385,Argos Ltd,319.95,Resources,26/08/2021
+22139,Argos Ltd,141.66,People,26/08/2021
+23313,Argos Ltd,135.79,People,26/08/2021
+6425,Argos Ltd,105.55,Resources,27/08/2021
+6429,Argos Ltd,418.28,Resources,27/08/2021
+6449,Argos Ltd,44.95,People,27/08/2021
+6381,Argos Ltd,141.94,People,27/08/2021
+6437,Argos Ltd,253.95,People,27/08/2021
+20324,Argos Ltd,214.12,Resources,31/08/2021
+20328,Argos Ltd,150.00,Resources,31/08/2021
+20288,Argos Ltd,49.12,People,31/08/2021
+25876,Argos Ltd,17.83,People,31/08/2021
+5371,Argos Warwick,106.66,Communities,21/08/2021
+27683,Aryan Garages,3.87,People,24/08/2021
+8702,Asda George Com Leeds,149.45,Resources,24/08/2021
+8639,Asda Groceries Online,-8.21,People,03/08/2021
+8643,Asda Groceries Online,80.55,People,03/08/2021
+7689,Asda Groceries Online,116.46,People,06/08/2021
+7697,Asda Groceries Online,-1.00,People,06/08/2021
+10254,Asda Groceries Online,43.56,People,17/08/2021
+14379,Asda Petrol 5147,1.19,Fire and Rescue,16/08/2021
+14755,Asda Stores 4602,9.27,People,06/08/2021
+13779,Asda Stores 5757,18.33,People,27/08/2021
+4356,Asda Superstore,401.50,Communities,21/08/2021
+4356,Asda Superstore,506.75,Communities,21/08/2021
+4360,Asda Superstore,172.40,Communities,21/08/2021
+4360,Asda Superstore,156.63,Communities,21/08/2021
+2626,Aspolice Dfp-Gut4k,100.00,Resources,05/08/2021
+7803,Atlassian,8.77,Resources,28/08/2021
+6907,B & Q 1258,2.50,Communities,21/08/2021
+6907,B & Q 1258,16.23,Communities,21/08/2021
+16981,B&m 017 - Bedworth,6.10,People,12/08/2021
+18102,B&m 468 - Hs Nuneaton,151.89,People,26/08/2021
+21997,B&q Direct,100.67,Communities,19/08/2021
+8353,Bb-Speed Couriers,158.28,Resources,10/08/2021
+6350,Bcc Clean Air Zone,8.00,People,11/08/2021
+5720,Bed Care Ltd,1374.17,People,27/08/2021
+18955,Birmingham Register,14.50,Resources,02/08/2021
+27223,Booker Limited Coventr,48.93,People,31/08/2021
+28215,Booker Limited Tamwort,151.35,Communities,10/08/2021
+28215,Booker Limited Tamwort,73.29,Communities,10/08/2021
+24486,Booker Limited Tamwort,152.00,Communities,23/08/2021
+24486,Booker Limited Tamwort,63.97,Communities,23/08/2021
+31788,Booker Limited Warwick,2.29,Communities,04/08/2021
+22548,Bookerecomm,59.96,Resources,02/08/2021
+791,Bookerecomm,86.98,Communities,06/08/2021
+30774,Bookerecomm,69.76,Resources,11/08/2021
+24809,Bookerecomm,117.20,Communities,13/08/2021
+24809,Bookerecomm,162.04,Communities,13/08/2021
+29169,Bookerecomm,55.77,Resources,17/08/2021
+22682,Bookerecomm,71.95,Communities,20/08/2021
+22682,Bookerecomm,120.38,Communities,20/08/2021
+29165,Bookerecomm,54.37,Resources,25/08/2021
+22494,Bookerecomm,128.01,Communities,27/08/2021
+22494,Bookerecomm,79.49,Communities,27/08/2021
+35536,Bookmeetingroom.Com,15.43,Communities,05/08/2021
+5468,British Gas Online,30.00,People,13/08/2021
+27277,British Gas Otp,20.00,People,12/08/2021
+7907,British Gas Otp,20.00,People,30/08/2021
+8108,British Red Cross,151.20,People,10/08/2021
+20519,Bt.Com Business Bp,182.14,People,16/08/2021
+18958,Btconsumer Wifirecurri,25.00,Communities,09/08/2021
+30443,Budget Skip Services L,233.33,Fire and Rescue,05/08/2021
+70,Building & Plumb Supp,329.45,Communities,05/08/2021
+2733,Building & Plumb Supp,335.03,Communities,11/08/2021
+1122,Building & Plumb Supp,350.80,Communities,17/08/2021
+1547,Caffe Nero Leamington,3.50,People,02/08/2021
+1934,Caffe Nero Leamington,3.37,People,12/08/2021
+1144,Caffe Nero Nuneaton,5.52,People,17/08/2021
+1105,Caffe Nero Nuneaton,4.00,People,18/08/2021
+27442,Canva* I03139-12852188,99.99,Communities,06/08/2021
+13258,Carpetright,241.73,Resources,04/08/2021
+26580,Carpetwise,250.00,Resources,03/08/2021
+21089,Castaways,5.05,People,17/08/2021
+9395,Cawood Scientific Ltd,50.00,Communities,04/08/2021
+9853,Cawood Scientific Ltd,150.00,Communities,19/08/2021
+4363,Chase Meadow Opticians,147.10,People,09/08/2021
+14607,Cipd Integra,163.00,Resources,02/08/2021
+13882,Cjs Events Warwickshir,60.00,Communities,05/08/2021
+10375,Coleman Milne,297.00,Communities,03/08/2021
+22244,Companies House,13.00,Resources,13/08/2021
+31292,Coombe Abbey Hotel,65.00,People,11/08/2021
+14813,Co-Op Group 070405,11.25,People,27/08/2021
+23598,Co-Op Late Shop,1.00,People,05/08/2021
+23602,Co-Op Late Shop,4.80,People,05/08/2021
+21719,Co-Op Late Shop,4.58,People,12/08/2021
+12049,Costa @ Next 43039545,6.24,People,12/08/2021
+18831,Costa Coffee,5.75,People,10/08/2021
+10525,Costa Coffee 43040920,3.29,People,23/08/2021
+12668,Costa Coffee 43044225,4.05,People,18/08/2021
+12052,Costa Coffee 43044395,4.87,People,12/08/2021
+12812,Costa Coffee 43044395,5.86,People,19/08/2021
+11231,Costa Coffee 43044395,5.57,People,31/08/2021
+7797,Costa Coffee Rugby 2,5.19,People,04/08/2021
+8585,Costa Leamington Spa D,3.45,People,09/08/2021
+9265,Costa Leamington Spa D,3.33,People,16/08/2021
+8145,Costa Leamington Spa D,3.85,People,23/08/2021
+16049,Costco Wholesale #122,74.14,People,12/08/2021
+29087,Costcutter Rugby,1.00,People,03/08/2021
+8771,Countryside Jobs Servi,90.00,Communities,16/08/2021
+8835,Countryside Jobs Servi,-15.00,Communities,16/08/2021
+20452,Coventry City Council,150.63,People,10/08/2021
+487,Crown Waste Management,125.00,Resources,04/08/2021
+6571,Cs*morrisons Gift Card,15.00,People,27/08/2021
+16141,Currys Online,316.66,People,03/08/2021
+16530,Currys Online,237.48,People,05/08/2021
+17069,Currys Online,208.32,People,11/08/2021
+17073,Currys Online,208.32,People,11/08/2021
+13504,Currys Online,249.99,People,13/08/2021
+14510,Currys Online,104.96,Fire and Rescue,16/08/2021
+16787,Currys Online,224.99,People,17/08/2021
+13437,Currys Online,414.00,People,23/08/2021
+13613,Currys Pc World,219.99,People,19/08/2021
+13617,Currys Pc World,19.99,People,19/08/2021
+13621,Currys Pc World,299.00,People,19/08/2021
+358,Cvaa UK Ltd,99.00,People,18/08/2021
+19500,D R Caswell Ltd,5.78,Fire and Rescue,05/08/2021
+19500,D R Caswell Ltd,126.00,Fire and Rescue,05/08/2021
+6691,Decathlon UK Limited,38.94,People,06/08/2021
+10273,Disclosure & Barring,13.00,Communities,06/08/2021
+27430,Dlvr.It,14.42,Resources,06/08/2021
+10778,Dominos,13.32,People,12/08/2021
+21106,Dvla Driver Online,34.00,People,12/08/2021
+27227,Dvla Driver Online,20.00,People,17/08/2021
+15569,Dvla Driver Online,34.00,People,27/08/2021
+30098,Dvla Vehicle Tax,282.50,Communities,11/08/2021
+27211,Dvla Vehicle Tax,32.50,Communities,17/08/2021
+27219,Dvla Vehicle Tax,277.50,Communities,17/08/2021
+27223,Dvla Vehicle Tax,167.50,Communities,17/08/2021
+27231,Dvla Vehicle Tax,562.50,Communities,17/08/2021
+27239,Dvla Vehicle Tax,277.50,Communities,17/08/2021
+27243,Dvla Vehicle Tax,277.50,Communities,17/08/2021
+27251,Dvla Vehicle Tax,157.50,Communities,17/08/2021
+9984,E.On Energy Solutions,30.00,People,17/08/2021
+25012,Eagle House Hotel,85.71,People,04/08/2021
+30842,Eb *integrated Care Sy,155.00,Communities,31/08/2021
+32732,Eb *refund To Buyer,3.00,Communities,25/08/2021
+33278,Ebay O*05-07458-29867,3.29,Communities,11/08/2021
+33275,Ebay O*05-07458-29868,4.16,Communities,11/08/2021
+31634,Ebay O*14-07511-91416,63.85,Communities,24/08/2021
+27106,Ebay O*15-07447-44611,63.71,People,09/08/2021
+1321,Ecosystems Knowledge N,35.00,Communities,31/08/2021
+12166,Enterprise Rent,34.22,People,02/08/2021
+15114,Enterprise Rent,-34.22,People,02/08/2021
+12965,Enterprise Rent,41.07,People,06/08/2021
+14730,Enterprise Rent,34.22,People,12/08/2021
+3596,Enterprise Rent,34.22,People,14/08/2021
+3599,Enterprise Rent,-68.45,People,14/08/2021
+15084,Enterprise Rent A Car,32.46,People,04/08/2021
+14991,Enterprise Rent A Car,59.30,People,05/08/2021
+12633,Enterprise Rent A Car,29.71,People,13/08/2021
+15443,Enterprise Rent A Car,29.71,People,17/08/2021
+10626,Enterprise Rent A Car,-57.71,People,20/08/2021
+10629,Enterprise Rent A Car,43.71,People,20/08/2021
+10632,Enterprise Rent A Car,43.71,People,20/08/2021
+12061,Enterprise Rent A Car,29.71,People,24/08/2021
+12335,Enterprise Rent A Car,54.92,People,27/08/2021
+9639,Enterprise Workwear Lt,24.95,Communities,04/08/2021
+13030,Enviroment Agency,111.50,Communities,31/08/2021
+29840,Esso Stoneycroft Sstn,8.35,Fire and Rescue,25/08/2021
+32744,Etsy,65.00,People,05/08/2021
+28780,Facebk *vtrhe8fep2,700.00,Resources,23/08/2021
+30257,Facebk *xtzpn7kep2,269.51,Resources,31/08/2021
+14294,Falfield Store And Pos,8.48,People,19/08/2021
+4729,Farol,46.38,Communities,14/08/2021
+23863,Fat Boys Grub,6.13,People,11/08/2021
+10039,Flickr Pro Monthly,6.49,Resources,08/08/2021
+23762,Floors 4 Less,250.00,Resources,02/08/2021
+10374,Food4wildbirds-Dom,140.00,Communities,18/08/2021
+9238,"Formstack, Llc",72.38,Resources,29/08/2021
+6325,Franklins Sandwich,81.75,Fire and Rescue,18/08/2021
+3275,Galleon Sup,87.75,Communities,09/08/2021
+3279,Galleon Sup,99.50,Communities,09/08/2021
+17042,Gardening Naturally,18.06,People,05/08/2021
+12457,Gen Register Office,22.00,Resources,06/08/2021
+11908,Gen Register Office,14.00,People,09/08/2021
+10593,Gen Register Office,18.00,People,10/08/2021
+14672,Gen Register Office,14.00,People,17/08/2021
+12459,Gen Register Office,14.00,People,23/08/2021
+19611,Gentworks Limited,119.00,Communities,31/08/2021
+6741,Giffgaff,24.17,People,18/08/2021
+12535,Gloucestershire.Gov.Uk,11.00,Resources,18/08/2021
+12168,Gloucestershire.Gov.Uk,11.00,Resources,24/08/2021
+2145,Good One Express,2.58,People,03/08/2021
+8178,Google *cloud_015ba7-B,65.68,Resources,01/08/2021
+9242,Google Ads2789853021,488.26,Resources,22/08/2021
+547,Govnet Events,345.00,Resources,27/08/2021
+17177,Gsproducts.Co.Uk,21.95,Communities,25/08/2021
+13762,Halfords 0574,151.67,Fire and Rescue,05/08/2021
+13579,Halfords On Line,27.50,People,10/08/2021
+10496,Hayley Group Plc,133.65,Communities,10/08/2021
+10500,Hayley Group Plc,100.68,Communities,10/08/2021
+1267,Haymarket Media Group,1896.00,Resources,05/08/2021
+19035,Heartland Ford,116.66,Fire and Rescue,02/08/2021
+24906,Highstreetvouchers,100.00,Resources,19/08/2021
+26992,Hillfields Halal Meat,35.00,People,31/08/2021
+10403,Hm Passport Office,49.00,People,05/08/2021
+10404,Hm Passport Office,75.50,People,10/08/2021
+8699,Hm Passport Office,80.50,People,17/08/2021
+9170,Hm Passport Office,49.00,People,23/08/2021
+9174,Hm Passport Office,49.00,People,23/08/2021
+9178,Hm Passport Office,49.00,People,23/08/2021
+9186,Hm Passport Office,49.00,People,23/08/2021
+9396,Hm Passport Office,75.50,People,25/08/2021
+18034,Hm Passport Office,75.50,People,26/08/2021
+23592,Hmcourts-Service.G,20.00,Resources,16/08/2021
+23636,Hmcourts-Service.G,75.00,People,16/08/2021
+26599,Hmcourts-Service.G,75.00,People,18/08/2021
+28863,Hmcourts-Service.G,292.00,People,25/08/2021
+8910,Home Bargains,9.44,People,12/08/2021
+6471,Home Bargains,3.32,Fire and Rescue,23/08/2021
+35330,Hootsuite Media Inc.,5208.33,Resources,24/08/2021
+8986,Hotel At Booking.Com,3425.00,People,07/08/2021
+26697,Hotel At Booking.Com,216.67,People,09/08/2021
+27687,Hotel At Booking.Com,-21.67,People,09/08/2021
+27211,Hotel At Booking.Com,128.57,People,09/08/2021
+28304,Hotel At Booking.Com,578.33,People,23/08/2021
+31266,Hotel At Booking.Com,79.00,People,26/08/2021
+15504,Hotel Chocolat Ltd,48.62,Resources,19/08/2021
+11557,Hotel Chocolat Ltd,16.21,Resources,27/08/2021
+30311,Hotel On Booking.Com,70.00,People,31/08/2021
+19838,Hr Cafe,282.60,Communities,31/08/2021
+14952,Hsd Online,29.99,Communities,16/08/2021
+17349,Hyndburn Borough Counc,173.67,People,20/08/2021
+22906,Ikea Ltd 142 Birmingha,818.75,Communities,20/08/2021
+22909,Ikea Ltd 142 Birmingha,521.67,Communities,20/08/2021
+22912,Ikea Ltd 142 Birmingha,8.14,Communities,20/08/2021
+11876,Ikea Ltd Shop Online,362.50,People,09/08/2021
+4153,Ikea Ltd Shop Online,77.29,People,19/08/2021
+8965,Interlevin Refrigerati,499.00,Communities,10/08/2021
+6267,Intramark Limited,93.93,Fire and Rescue,12/08/2021
+31051,Istock Com,8.40,Communities,26/08/2021
+26218,Iz *dwfloorsnuneat,305.00,People,26/08/2021
+14702,Jewson Ltd,12.54,Communities,03/08/2021
+14702,Jewson Ltd,66.00,Communities,03/08/2021
+14702,Jewson Ltd,21.31,Communities,03/08/2021
+14702,Jewson Ltd,9.99,Communities,03/08/2021
+14702,Jewson Ltd,96.00,Communities,03/08/2021
+14637,Jewson Ltd,17.28,Communities,05/08/2021
+14637,Jewson Ltd,257.00,Communities,05/08/2021
+14637,Jewson Ltd,15.40,Communities,05/08/2021
+1154,Just Eat,16.71,People,14/08/2021
+1163,Just Eat,12.73,People,14/08/2021
+3853,Kenilworth Carpets,166.67,Resources,27/08/2021
+17877,Kfc Nuneaton North Dt,11.65,People,04/08/2021
+1674,Kompan Limited,36.00,Communities,16/08/2021
+12270,Kunis Coffee,3.90,People,04/08/2021
+4944,Landmarkinf,8.32,Communities,23/08/2021
+8264,Laserquest,198.00,People,04/08/2021
+9885,Leic City Council,63.00,People,13/08/2021
+7381,Linkedin Ireland,44.33,Resources,01/08/2021
+31775,Linkedin Ireland,122.11,Resources,05/08/2021
+12163,Love Brownies Rocheste,5.50,People,26/08/2021
+25470,M6 Toll,5.83,People,02/08/2021
+25474,M6 Toll,5.83,People,02/08/2021
+22783,Magsubcriptions Com,168.00,Communities,02/08/2021
+31000,Mailchimp,593.92,Resources,17/08/2021
+26507,Marshall Fleet,250.00,Communities,18/08/2021
+18139,Matalan.Co.Uk,95.00,People,05/08/2021
+18142,Matalan.Co.Uk,61.00,People,05/08/2021
+18145,Matalan.Co.Uk,23.95,People,05/08/2021
+19059,Max Spielmann Ltd,9.16,People,25/08/2021
+19062,Max Spielmann Ltd,7.00,People,25/08/2021
+23581,McDonalds,4.08,People,02/08/2021
+27283,McDonalds,3.89,People,03/08/2021
+28645,McDonalds,2.17,People,11/08/2021
+30448,McDonalds,3.48,People,19/08/2021
+31259,McDonalds,10.84,People,19/08/2021
+29895,McDonalds,5.82,People,24/08/2021
+29484,McDonalds,2.18,People,25/08/2021
+28912,McDonalds 1565,5.23,People,11/08/2021
+28975,McDonalds 1620 / Warwi,3.05,People,05/08/2021
+24633,McDonalds 521,6.28,People,13/08/2021
+8646,Metcalf Timber And Bui,411.18,Communities,12/08/2021
+9553,Metcalf Timber And Bui,113.00,Communities,16/08/2021
+9357,Metcalf Timber And Bui,56.18,Communities,19/08/2021
+3520,Midpac,94.52,Communities,12/08/2021
+2800,Midpac,208.62,Communities,31/08/2021
+15264,Milneroffroad.Com,14.10,Fire and Rescue,06/08/2021
+32767,Mollie *praxisdienst G,175.29,Fire and Rescue,11/08/2021
+4550,Montague Storage,75.00,Resources,20/08/2021
+22828,Mosaic,3.40,People,05/08/2021
+17416,Mrw Skip Hire,185.00,People,18/08/2021
+19812,Mrw Skip Hire,222.00,People,27/08/2021
+17244,Ncs*citb Exam,22.00,Communities,17/08/2021
+9557,Net World Sports,58.33,People,31/08/2021
+23385,Nhbs Ltd,28.49,Communities,16/08/2021
+19946,Nuneaton & Bedworth Bc,267.00,People,02/08/2021
+21784,Nuneaton Hose And,15.62,Communities,16/08/2021
+18598,Nuneaton Stn T/O,7.60,People,23/08/2021
+24053,Odeon Cinemas,25.00,People,03/08/2021
+31324,Optimal Workshop,143.93,Resources,17/08/2021
+17018,Parcel2go.Com Ltd,6.49,Communities,10/08/2021
+17383,Parcel2go.Com Ltd,6.49,Communities,11/08/2021
+16298,Parcel2go.Com Ltd,6.70,Communities,12/08/2021
+14766,Parcel2go.Com Ltd,6.49,Communities,16/08/2021
+16881,Parcel2go.Com Ltd,39.78,Communities,17/08/2021
+16403,Parcel2go.Com Ltd,6.49,Communities,26/08/2021
+13200,Parcel2go.Com Ltd,34.35,Communities,27/08/2021
+13203,Parcel2go.Com Ltd,6.49,Communities,27/08/2021
+28039,Park Convenience Store,3.54,People,12/08/2021
+28002,Parking Fee,3.00,People,25/08/2021
+14417,Pass Portable Applian,74.89,Resources,23/08/2021
+3324,Pasthorizon,28.65,Communities,25/08/2021
+384,Paypal *999 Day,269.82,Fire and Rescue,06/08/2021
+886,Paypal *centralbuil,137.50,People,27/08/2021
+4033,Paypal *joleefabric,19.64,People,11/08/2021
+5283,Paypal *lgcomms2018,250.00,Resources,23/08/2021
+7441,Paypal *mishcondere,1700.00,Resources,26/08/2021
+35113,Paypal *wenshuai Onbuy,7.99,Communities,17/08/2021
+5093,Pet Spectrum Group,128.67,Communities,30/08/2021
+26809,Piero Lounge,5.20,People,10/08/2021
+6441,Post Office Counter,2.25,Communities,04/08/2021
+6219,Post Office Counter,7.65,Communities,10/08/2021
+6865,Post Office Counter,2.69,Communities,12/08/2021
+650,Post Office Counter,9.70,Communities,17/08/2021
+6663,Post Office Counter,0.85,People,25/08/2021
+2423,Postsaver,207.15,Communities,25/08/2021
+28582,Poundland,35.17,Communities,05/08/2021
+21637,Poundland Ltd,23.00,People,25/08/2021
+18301,Ppoint_*costcutter Rug,1.98,People,04/08/2021
+11983,Premier Inn 44531705,633.94,Fire and Rescue,04/08/2021
+12529,Premier Inn Hu49637280,135.24,People,18/08/2021
+12532,Premier Inn Hu49637280,49.05,People,18/08/2021
+12473,Premier Inn44014350,431.35,Fire and Rescue,23/08/2021
+14187,Premier Inn44029180,98.09,People,31/08/2021
+12526,Premier Inn44521080,88.57,People,18/08/2021
+12530,Premier Inn44524320,214.29,Fire and Rescue,23/08/2021
+4467,Premier Inn44529450,55.42,People,20/08/2021
+13934,Preservation Equip,145.75,Communities,09/08/2021
+11360,Prestige Bouncy Ca,57.50,People,03/08/2021
+26958,Property Link Midlands,1.50,Communities,19/08/2021
+33221,Pyd*cafe Roj,3.39,People,03/08/2021
+32453,Pyd*cafe Roj,9.33,People,10/08/2021
+31607,R B Skips,165.00,People,04/08/2021
+8739,Railway Sleepers Ltd,32.00,Communities,03/08/2021
+11372,Rochester Castle,7.20,People,26/08/2021
+17654,Rock Awnings,484.99,Communities,19/08/2021
+9656,Rugby Bc Internet,1103.07,People,06/08/2021
+8908,Rugby Bc Internet,1005.60,People,25/08/2021
+14049,S & K Supermarket,8.07,People,03/08/2021
+14609,S & K Supermarket,5.07,People,10/08/2021
+26141,Sainsburys S/mkt,3.15,People,03/08/2021
+26254,Sainsburys S/mkt,37.67,Communities,05/08/2021
+16524,Sainsburys S/mkt,53.57,People,06/08/2021
+23890,Sainsburys S/mkt,2.80,People,10/08/2021
+6352,Sainsburys S/mkt,45.08,Communities,21/08/2021
+6352,Sainsburys S/mkt,62.00,Communities,21/08/2021
+20342,Sainsburys S/Mkts,14.95,People,27/08/2021
+24047,Screwfix Dir Ltd,15.82,Communities,11/08/2021
+21279,Screwfix Direct,279.46,Communities,04/08/2021
+19993,Screwfix Direct,20.00,Communities,05/08/2021
+20105,Screwfix Direct,49.98,Communities,05/08/2021
+5551,Screwfix Direct,119.96,Communities,08/08/2021
+23164,Screwfix Direct,20.82,People,09/08/2021
+24815,Screwfix Direct,278.65,Communities,10/08/2021
+21289,Screwfix Direct,60.00,Communities,19/08/2021
+21345,Screwfix Direct,20.00,Communities,19/08/2021
+18358,Screwfix Direct,94.95,Communities,31/08/2021
+16135,Sdc Contact Centre,1913.46,People,16/08/2021
+14601,Seaton Hire Ltd,85.56,Communities,02/08/2021
+22500,Seaton Hire Ltd,57.04,Communities,04/08/2021
+22500,Seaton Hire Ltd,14.99,Communities,04/08/2021
+15271,Seaton Hire Ltd,59.89,Communities,06/08/2021
+16652,Seaton Hire Ltd,57.05,Communities,09/08/2021
+19066,Seaton Hire Ltd,49.92,Communities,11/08/2021
+14816,Seaton Hire Ltd,24.96,Communities,27/08/2021
+30103,Sfl Mobile Radio Limit,188.99,Communities,05/08/2021
+22820,Simply Local Bedworth,6.78,People,27/08/2021
+5841,Sp * Hollands Clothing,169.87,Communities,03/08/2021
+26173,Sportsdirect 265,10.10,People,25/08/2021
+24981,Sq *strive To Succeed,150.00,People,25/08/2021
+24985,Sq *strive To Succeed,150.00,People,25/08/2021
+23859,Sq *strive To Succeed,150.00,People,26/08/2021
+23863,Sq *strive To Succeed,150.00,People,26/08/2021
+23867,Sq *strive To Succeed,150.00,People,26/08/2021
+23871,Sq *strive To Succeed,120.00,People,26/08/2021
+23879,Sq *strive To Succeed,120.00,People,26/08/2021
+23883,Sq *strive To Succeed,120.00,People,26/08/2021
+25719,St John Ambulance,315.00,Communities,03/08/2021
+29801,St John Ambulance,150.00,Communities,04/08/2021
+15397,Stagecoach Bus,5.00,People,09/08/2021
+9921,Stagecoach Service,66.80,People,06/08/2021
+8153,Stagecoach Service,186.00,People,23/08/2021
+8181,Stagecoach Service,186.00,People,23/08/2021
+11363,Stagecoach Service,267.20,People,25/08/2021
+11367,Stagecoach Service,330.00,People,25/08/2021
+11371,Stagecoach Service,267.20,People,25/08/2021
+8998,Stagecoach Service,267.20,People,31/08/2021
+29282,Stamps Direct Ltd,41.20,Communities,26/08/2021
+15359,Starbucks,3.79,People,05/08/2021
+15695,Starbucks,4.11,People,11/08/2021
+14916,Starbucks,7.30,People,12/08/2021
+13737,Starbucks,4.24,People,16/08/2021
+18065,Starbucks,6.37,People,19/08/2021
+16015,Starbucks,10.92,People,19/08/2021
+15004,Starbucks,8.08,People,26/08/2021
+28648,Starbucks Budbrooke,7.65,People,10/08/2021
+5315,Sthern Stronghold,92.25,Communities,05/08/2021
+16988,Streetwise Couriers Mi,9.28,Communities,02/08/2021
+14608,Subway 61955 Bermuda P,10.07,People,31/08/2021
+19322,Sumup *tas Taxis And C,119.00,Communities,12/08/2021
+9833,Superdrug Stores Plc,1.24,Communities,19/08/2021
+9944,Tcl Tool Hire Limited,10.80,Communities,09/08/2021
+23085,Tenpin.Co.Uk,25.61,People,31/08/2021
+6953,Tesco Gift Card,16.67,People,09/08/2021
+7697,Tesco Gift Card,20.00,People,09/08/2021
+9614,Tesco Gift Card,20.00,People,10/08/2021
+7712,Tesco Store 2836,8.28,Communities,10/08/2021
+9996,Tesco Store 3212,30.75,People,25/08/2021
+3681,Tesco Store 3370,66.45,Communities,07/08/2021
+9554,Tesco Store 3370,40.50,Communities,10/08/2021
+9469,Tesco Store 3370,13.92,People,31/08/2021
+8111,Tesco Stores 2325,64.75,People,27/08/2021
+2134,Tesco Stores 2325,12.00,People,29/08/2021
+2138,Tesco Stores 2325,68.00,People,29/08/2021
+11071,Tesco Stores 2974,2.30,Communities,04/08/2021
+7326,Tesco-Stores 6473,4.70,People,31/08/2021
+25246,The Garden Shed Cafe,6.80,People,26/08/2021
+9131,The Light House,20.00,People,18/08/2021
+28778,The Play Hub,24.00,People,03/08/2021
+9353,The Poppy House (Tea R,57.14,People,24/08/2021
+8507,The Poppy House (Tea R,-57.14,People,25/08/2021
+22829,The Post Office,6.37,People,11/08/2021
+25481,The Range,22.06,People,19/08/2021
+309,Theory Test Pro,7.50,Fire and Rescue,23/08/2021
+17217,Theplasticshop.Co.Uk,38.07,Communities,24/08/2021
+1804,Thetrainline.Com,36.97,People,03/08/2021
+11606,Thetrainline.Com,9.86,People,04/08/2021
+4079,Thetrainline.Com,36.97,People,10/08/2021
+5229,Thetrainline.Com,20.34,People,12/08/2021
+6253,Thetrainline.Com,11.59,People,16/08/2021
+6966,Thetrainline.Com,12.81,People,17/08/2021
+6243,Thetrainline.Com,20.34,People,19/08/2021
+2681,Thetrainline.Com,26.04,People,20/08/2021
+3558,Thetrainline.Com,11.59,People,23/08/2021
+1827,Thetrainline.Com,36.97,People,24/08/2021
+11999,Thetrainline.Com,11.59,People,25/08/2021
+2622,Thetrainline.Com,11.59,People,27/08/2021
+10705,Thetrainline.Com,30.61,People,31/08/2021
+41,Thetrainline.Com,8.54,People,31/08/2021
+15335,Toolstation Uk,39.98,Communities,09/08/2021
+26250,Top Dry Cleaners,25.00,Fire and Rescue,04/08/2021
+22343,Torrys Hardware,5.62,Communities,03/08/2021
+8186,Trading Standards Inst,895.00,Communities,19/08/2021
+5401,Trainline,11.35,People,09/08/2021
+7109,Trainline.Com,20.34,People,05/08/2021
+5348,Trainline.Com,95.75,People,06/08/2021
+5360,Trainline.Com,8.54,People,06/08/2021
+5372,Trainline.Com,7.93,People,06/08/2021
+6495,Trainline.Com,-19.10,People,10/08/2021
+6623,Trainline.Com,11.59,People,11/08/2021
+6627,Trainline.Com,8.03,People,11/08/2021
+4506,Trainline.Com,25.02,People,13/08/2021
+346,Trainline.Com,8.54,People,17/08/2021
+6876,Trainline.Com,11.59,People,18/08/2021
+5105,Trainline.Com,114.36,People,20/08/2021
+5117,Trainline.Com,28.48,People,20/08/2021
+5417,Trainline.Com,8.54,People,24/08/2021
+7401,Trainline.Com,-4.60,People,25/08/2021
+7385,Trainline.Com,13.32,People,26/08/2021
+7389,Trainline.Com,20.34,People,26/08/2021
+5187,Trainline.Com,132.46,People,31/08/2021
+13048,Trip.Com,10.80,People,02/08/2021
+22736,Trophystore.Co.Uk Limi,48.49,People,17/08/2021
+22748,Trophystore.Co.Uk Limi,1696.99,People,17/08/2021
+9941,Tudor Environmental,150.00,Communities,09/08/2021
+10318,Tv Cases,1264.29,Resources,23/08/2021
+5952,Tvlicensing.Co.Uk,159.00,Communities,23/08/2021
+26648,Udemy,10.82,Communities,13/08/2021
+6898,Uk Lifting Store,26.40,Communities,11/08/2021
+14478,Ultra Secure Ltd,1690.10,Communities,06/08/2021
+23700,Utility Warehouse,100.00,People,16/08/2021
+14561,Very,172.48,People,19/08/2021
+14702,Viking Uk,383.92,Communities,13/08/2021
+15270,Viking Uk,53.97,Communities,23/08/2021
+37785,Virtualinout.Com,17.25,Communities,12/08/2021
+32876,Vistaprint,17.99,Communities,04/08/2021
+26159,Vms - Roadchef,6.78,People,19/08/2021
+8638,Vwg Coventry Tps G,69.14,Communities,12/08/2021
+827,Wagstaffshop.Co.Uk,238.00,People,19/08/2021
+8331,Warwick District Counc,498.50,People,18/08/2021
+10133,Warwick Glass And Glaz,48.00,Communities,09/08/2021
+7699,Web Wiz Ltd,53.34,Communities,07/08/2021
+6307,Web Wiz Ltd,6.95,Communities,28/08/2021
+139,Western Computer Group,70.00,Resources,19/08/2021
+20353,Westminster Forum Proj,380.00,Communities,24/08/2021
+22561,Wickes Rugby,23.33,People,19/08/2021
+19840,Wickes Tamworth,31.60,Communities,09/08/2021
+3766,Wilko Retail Limited,2.08,People,21/08/2021
+3770,Wilko Retail Limited,2.50,People,21/08/2021
+3774,Wilko Retail Limited,2.50,People,21/08/2021
+3778,Wilko Retail Limited,2.50,People,21/08/2021
+27719,Wilmington Shared Serv,274.00,People,17/08/2021
+6046,Wm Morrisons Store,3.00,People,07/08/2021
+25605,Wm Morrisons Store,24.10,Communities,25/08/2021
+7736,Wp-Warwickshire Co,11.00,Resources,02/08/2021
+10383,Wp-Warwickshire Co,22.00,Resources,03/08/2021
+10251,Wp-Warwickshire Co,11.00,Resources,03/08/2021
+9993,Wp-Warwickshire Co,11.00,Resources,06/08/2021
+11406,Wp-Warwickshire Co,11.00,People,18/08/2021
+7960,Wp-Warwickshire Co,11.00,People,23/08/2021
+8301,Wp-Warwickshire Co,22.00,People,23/08/2021
+11135,Wp-Warwickshire Co,11.00,Resources,25/08/2021
+23807,Www Anyvan Com,224.00,People,27/08/2021
+6386,Www Anyvan Com,-224.00,People,29/08/2021
+7872,Www Stringsdirect Co U,112.66,Communities,20/08/2021
+12143,Www.Aat-Org.Uk,105.00,Resources,03/08/2021
+10312,Www.Aat-Org.Uk,167.00,Resources,23/08/2021
+10315,Www.Aat-Org.Uk,101.00,Resources,23/08/2021
+1260,Www.Anyvan.Com,239.92,People,09/08/2021
+1111,Www.Anyvan.Com,119.96,People,10/08/2021
+13986,Www.Britishfossils.Co.,328.56,Communities,24/08/2021
+28111,Www.Britishgas.Co.,396.67,People,18/08/2021
+29513,Www.Britishgas.Co.,332.17,People,19/08/2021
+12225,Www.Cipd.Co.Uk,163.00,Resources,25/08/2021
+5476,Www.Cips.Org,206.00,Resources,13/08/2021
+5480,Www.Cips.Org,206.00,Resources,13/08/2021
+23762,Www.Cips.Org,206.00,Resources,16/08/2021
+12006,Www.Cleaningproducts.N,22.59,Communities,12/08/2021
+8604,Www.Coram.Org.Uk,21.95,People,25/08/2021
+21772,Www.Coventry.Gov.Uk,-11.00,People,05/08/2021
+19018,Www.Coventry.Gov.Uk,11.00,Resources,06/08/2021
+22196,Www.Coventry.Gov.Uk,66.71,People,12/08/2021
+5640,Www.Coventry.Gov.Uk,11.00,Resources,27/08/2021
+19295,Www.Coventry.Gov.Uk,150.63,People,31/08/2021
+12371,Www.Fenlandleisure.Co.,56.33,Communities,11/08/2021
+4729,Www.Fenlandleisure.Co.,22.08,Communities,30/08/2021
+21503,Www.Gov.Uk,1.50,Resources,03/08/2021
+20903,Www.Gov.Uk,1.50,Resources,04/08/2021
+26615,Www.Gov.Uk,1.50,Resources,18/08/2021
+20038,Www.Gov.Uk,1.50,Resources,20/08/2021
+23915,Www.Gov.Uk,1.50,Resources,26/08/2021
+14043,Www.Icfm.Com,60.00,Communities,31/08/2021
+21767,Www.Instantprint.C,74.70,Communities,18/08/2021
+2796,Www.Ipsea.Org.Uk,324.00,Resources,25/08/2021
+26171,Www.Johnlewis.Com,399.17,People,17/08/2021
+25807,Www.Master-Ropemakers.,287.53,Communities,19/08/2021
+10509,Www.Mitaxis.Com,10.80,People,06/08/2021
+10512,Www.Mitaxis.Com,10.56,People,06/08/2021
+17296,Www.Moneyclaim.Gov,83.00,Resources,13/08/2021
+25325,Www.Moneyclaim.Gov,83.00,Resources,23/08/2021
+25329,Www.Moneyclaim.Gov,83.00,Resources,23/08/2021
+19109,Www.Moneyclaim.Gov,455.00,Resources,26/08/2021
+2430,Www.Moneyclaim.Gov,70.00,Resources,31/08/2021
+2438,Www.Moneyclaim.Gov,80.00,Resources,31/08/2021
+9324,Www.Nuneatonandbedwort,1095.06,People,11/08/2021
+9256,Www.Nuneatonandbedwort,462.56,People,11/08/2021
+9245,Www.Nuneatonandbedwort,583.82,People,12/08/2021
+8315,Www.Nuneatonandbedwort,121.39,People,16/08/2021
+8459,Www.Nuneatonandbedwort,102.00,People,17/08/2021
+27111,Www.Papajohns.Co.Uk,13.79,People,17/08/2021
+13812,Www.Peymans.Uk,550.00,People,04/08/2021
+16778,Www.Preservationequipm,352.99,Resources,26/08/2021
+11133,Www.Railwaysleepers.Co,359.20,Communities,02/08/2021
+14081,Www.Railwaysleepers.Co,292.40,Communities,03/08/2021
+863,Www.Risedm* Diamond Bu,17000.00,Communities,24/08/2021
+8100,Www.Samsltd.Co.Uk,16.20,People,10/08/2021
+12865,Www.Sarabec.Co.Uk,78.45,People,23/08/2021
+12752,Www.Scs.Co.Uk,306.67,People,19/08/2021
+13103,Www.Swiftfix.Co.Uk,70.05,Communities,09/08/2021
+7865,Www.Thelawsociety.Org,100.00,Resources,20/08/2021
+23100,Www.Thorne.Co.Uk,29.17,Communities,12/08/2021
+9576,Www.Tudorenvironmental,244.08,Communities,02/08/2021
+11684,Www.Tudorenvironmental,45.00,Communities,12/08/2021
+9905,Www.Tudorenvironmental,328.92,Communities,13/08/2021
+13026,Www.Uk.Edensprings.Com,45.40,Communities,12/08/2021
+6561,Www.Ukwristbands.Com,66.66,Communities,09/08/2021
+17938,Www.Warkscol.Ac.Uk,75.00,Communities,12/08/2021
+26019,Www.Weatherwriter.Com,79.02,Communities,04/08/2021
+19881,Wwwreinforcedbedscouk,-274.83,People,31/08/2021
+19267,Yell Limited,391.75,Communities,24/08/2021
+2172108248,,0.42,Communities,05/08/2021
+2212105334,,0.40,Resources,09/08/2021
+2242105287,,0.47,Communities,12/08/2021
+2292104511,,3.96,Resources,17/08/2021
+2432108176,,0.24,Resources,31/08/2021
+2432108108,,1.99,Resources,31/08/2021
